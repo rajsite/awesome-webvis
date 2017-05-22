@@ -23,3 +23,5 @@ A curated list of awesome WebVIs. [Contributions welcome](https://github.com/raj
 [vireo-node-eightball](https://github.com/rajsite/vireo-node-eightball) - Magic 8-Ball server powered by WebVIs, Vireo, and Node.js
 
 [FFTDemo](bit.ly/FFTDemo)
+
+[Vireo Hello World on JS Bin](http://jsbin.com/toxuzor/edit?html,js,console) - An example of using [unpkg.com](https://unpkg.com) and [JS Bin](http://jsbin.com) together to create examples for Vireo
