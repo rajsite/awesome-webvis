@@ -1,0 +1,21 @@
+{
+  "name": "awesome-webvis",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Tests for awesome-webvis list",
+  "scripts": {
+    "lint": "markdownlint README.md",
+    "link": "markdown-link-check -c .linkcheck.json README.md",
+    "test": "npm run lint && npm run link"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsite/awesome-webvis.git"
+  },
+  "author": "Milan Raj (@rajsite)",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-link-check": "^3.8.0",
+    "markdownlint-cli": "^0.19.0"
+  }
+}

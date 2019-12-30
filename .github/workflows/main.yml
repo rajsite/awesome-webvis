@@ -1,0 +1,16 @@
+name: awesome-webvis ci
+
+on:
+  push:
+  schedule:
+     # 8pm CST is 2am UTC
+     - cron: '0 2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Install dependencies
+      run: npm ci
+    - name: Run tests
+      run: npm test
