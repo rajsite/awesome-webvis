@@ -4,9 +4,10 @@
   "private": true,
   "description": "Tests for awesome-webvis list",
   "scripts": {
-    "lint": "markdownlint README.md",
-    "link": "markdown-link-check -c .linkcheck.json README.md",
-    "test": "npm run lint && npm run link"
+    "link": "glob-exec --foreach \"./*.md\" -- \"npm run markdown-link-check -- -c .linkcheck.json {{file}}\"",
+    "markdown-link-check": "markdown-link-check",
+    "lint": "markdownlint ./*.md",
+    "test": "npm run lint && npm run link && awesome-lint"
   },
   "repository": {
     "type": "git",
@@ -15,6 +16,8 @@
   "author": "Milan Raj (@rajsite)",
   "license": "MIT",
   "devDependencies": {
+    "awesome-lint": "^0.12.1",
+    "glob-exec": "^0.1.1",
     "markdown-link-check": "^3.8.0",
     "markdownlint-cli": "^0.19.0"
   }
