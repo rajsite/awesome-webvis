@@ -11,10 +11,10 @@
     </a>
     <br>
     <p align="center">
-        <a href="https://www.webvi.io">WebVI.io</a>&nbsp;&nbsp;&nbsp;
-        <a href="#what-are-webvis">What are WebVIs?</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.webvi.io">Visit webvi.io</a>&nbsp;&nbsp;&nbsp;
+        <a href="#what-are-webvis">What are WebVIs</a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-web-module.html">Download</a>&nbsp;&nbsp;&nbsp;
-        <a href="CONTRIBUTING.md">Contribution guide</a>
+        <a href="CONTRIBUTING.md">Contribute Awesome WebVIs</a>
     </p>
 </div>
 
@@ -34,6 +34,8 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 WebVIs are web applications created using the LabVIEW NXG Web Module.
 
 WebVIs are standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some basic analysis, and present the data in scientific and engineering optimized web controls ⚡.
+
+Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIEW NXG Web Module?](https://www.ni.com/en-us/shop/electronic-test-instrumentation/add-ons-for-electronic-test-and-instrumentation/what-is-labview-nxg-web-module.html) page.
 
 ## Shipping Examples
 
@@ -55,7 +57,7 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 
 - [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche/) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
 - [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji/) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
-- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire/) - The PSX Doom fire animation ported to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
+- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire/) - The PSX Doom fire animation ported to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
 - [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex/) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
 - [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake/) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
