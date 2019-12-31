@@ -10,46 +10,59 @@
         <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
     </a>
     <br>
+    <p align="center">
+        <a href="https://www.webvi.io">WebVI.io</a>&nbsp;&nbsp;&nbsp;
+        <a href="#what-are-webvis">What are WebVIs?</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-web-module.html">Download</a>&nbsp;&nbsp;&nbsp;
+        <a href="CONTRIBUTING.md">Contribution guide</a>
+    </p>
 </div>
 
 # Awesome WebVIs
 
-A curated list of awesome WebVIs.
+A curated list of awesome WebVIs and resources for making awesome free-range organic WebVIs 🤘.
 
 ## Contents
 
-- [Feature demonstrations](#feature-demonstrations)
+- [What are WebVIs](#what-are-webvis)
+- [Shipping Examples](#shipping-examples)
 - [Just for fun](#just-for-fun)
 - [Experimental](#experimental)
 
-## Feature demonstrations
+## What are WebVIs
 
-[webvi.io](http://www.webvi.io/) - WebVI Squeeze Page
+WebVIs are web applications created using the LabVIEW NXG Web Module.
 
-[ni/webvi-examples](https://github.com/ni/webvi-examples)
+WebVIs are standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some basic analysis, and present the data in scientific and engineering optimized web controls ⚡.
 
-- [Call 3rd Party Web Service](https://ni.github.io/webvi-examples/Call3rdPartyWebService/Builds/WebApp_Web%20Server/) - Use a WebVI to call the Earthquake API from the US Geological Survey.
-- [Call LabVIEW Web Service](https://ni.github.io/webvi-examples/CallLabVIEWWebService/Builds/WebApp_Web%20Server/) - WebVI that makes requests to a LabVIEW web service (Note: demo needs a local running LabVIEW server).
-- [Customize WebVI with CSS](https://ni.github.io/webvi-examples/CustomizeWithCss/Builds/WebApp_Web%20Server/) - Customize the HTML output of a WebVI using CSS.
-- [Embed Content into a WebVI](https://ni.github.io/webvi-examples/EmbedContentIntoWebVI/Builds/WebApp_Web%20Server/) - Add custom HTML content to appear alongside the LabVIEW-generated HTML.
-- [Incorporate User Resource into WebVI](https://ni.github.io/webvi-examples/IncorporateUserResources/Builds/WebApp_Web%20Server/) - How to add resource files such as images, CSS files, JavaScript files, and HTML files to your web application.
-- [Multiple Top-Level WebVIs](https://ni.github.io/webvi-examples/MultipleTopLevelWebVIs/Builds/WebApp_Web%20Server/) - Web application with multiple pages.
-- [Utilize Syline Data Services](https://ni.github.io/webvi-examples/CallSystemLinkDataServices/Builds/Full%20Data%20Services%20App_Web%20Server/) - Communicating with the Skyline tags API available in the LabVIEW 2.0 Web Module.
+## Shipping Examples
+
+Examples included with the LabVIEW NXG Web Module and [available on GitHub](https://github.com/ni/webvi-examples) from National Instruments 🦅.
+
+- [Call 3rd Party Web Service](https://github.com/ni/webvi-examples#call-3rd-party-web-service) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI.
+- [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples#call-javascript-from-a-webvi) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page.
+- [Call LabVIEW Web Service](https://github.com/ni/webvi-examples#call-labview-web-service) - Acquire data with a LabVIEW Web Service to share with a WebVI.
+- [Call SystemLink Data Services](https://github.com/ni/webvi-examples#call-systemlink-data-services) - Communcation with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module.
+- [Connect WebVI to WebSocket Echo Server](https://github.com/ni/webvi-examples#connect-webvi-to-websocket-echo-server) - Stream data to WebVIs with WebSockets.
+- [Customize WebVI with CSS](https://github.com/ni/webvi-examples#customize-webvi-with-css) - Advanced customization of a WebVI's style with CSS.
+- [Embed Content into a WebVI](https://github.com/ni/webvi-examples#embed-content-into-a-webvi) - Add custom HTML to a WebVI.
+- [Incorporate User Resource into WebVI](https://github.com/ni/webvi-examples#incorporate-user-resource-into-webvi) - Add resource files such as images, CSS files, JavaScript files, and HTML files to your web application.
+- [Multiple Top-Level WebVIs](https://github.com/ni/webvi-examples#multiple-top-level-webvis) - Create a web application with multiple pages linked together.
 
 ## Just for fun
 
-[rajsite/webvi-arcade](https://github.com/rajsite/webvi-arcade)
+Games and other fun WebVIs you can play right away in the browser 🕹.
 
-- [Reflex Tester](https://bit.ly/webvidemo1)
-
-[rajsite/webvi-snake](https://webvi.glitch.me/snake)
-
-[rajsite/webvi-avalanche](https://webvi.glitch.me/avalanche)
+- [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche/) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
+- [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji/) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
+- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire/) - The PSX Doom fire animation ported to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
+- [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
+- [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex/) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
+- [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake/) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
 
 ## Experimental
 
-[vireo-node-eightball](https://github.com/rajsite/vireo-node-eightball) - Magic 8-Ball server powered by WebVIs, Vireo, and Node.js.
+Crazy experiments that try to push WebVIs to their limits 🧪.
 
-[FFTDemo](http://bit.ly/FFTDemo) - Deprecated experimental prototype of using analysis functions in WebVIs.
-
-[Vireo Hello World on JS Bin](http://jsbin.com/toxuzor/edit?html,js,console) - An example of using [unpkg.com](https://unpkg.com) and [JS Bin](http://jsbin.com) together to create examples for Vireo.
+- [FFTDemo](http://bit.ly/FFTDemo) - Historical experiment using analysis functions in WebVIs.
+- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/master/WebVINode) - Create Node.js server and desktop applications from WebVIs.
