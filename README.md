@@ -48,7 +48,7 @@ Examples included with the LabVIEW NXG Web Module and [available on GitHub](http
 - [Call 3rd Party Web Service](https://github.com/ni/webvi-examples#call-3rd-party-web-service) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI.
 - [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples#call-javascript-from-a-webvi) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page.
 - [Call LabVIEW Web Service](https://github.com/ni/webvi-examples#call-labview-web-service) - Acquire data with a LabVIEW Web Service to share with a WebVI.
-- [Call SystemLink Data Services](https://github.com/ni/webvi-examples#call-systemlink-data-services) - Communcation with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module.
+- [Call SystemLink Data Services](https://github.com/ni/webvi-examples#call-systemlink-data-services) - Communication with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module.
 - [Connect WebVI to WebSocket Echo Server](https://github.com/ni/webvi-examples#connect-webvi-to-websocket-echo-server) - Stream data to WebVIs with WebSockets.
 - [Customize WebVI with CSS](https://github.com/ni/webvi-examples#customize-webvi-with-css) - Advanced customization of a WebVI's style with CSS.
 - [Embed Content into a WebVI](https://github.com/ni/webvi-examples#embed-content-into-a-webvi) - Add custom HTML to a WebVI.
