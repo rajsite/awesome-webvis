@@ -1,0 +1,59 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+
+# Names
+Omid
+rajsite
+Symation
+VI_Technologies
+wimtormans
+
+# Projects
+FFTDemo
+GCentral
+PSX
+WebVINode
+
+# NI Terms
+JSLI
+LabVIEW
+LabVIEWNXG
+NIglobal
+NIWeek
+NIWeek2017
+NIWeek2016
+NXG
+SystemLink
+TestStand
+VI
+VIs
+webvi.io
+WebVI
+WebVIs
+
+# Tech Terms
+APIs
+backend
+CSS
+developercertificate.org
+DCO
+devtools
+frontend
+githack.com
+HMIs
+iframes
+JavaScript
+JS
+leds
+Node.js
+plc
+raspberrypi
+UI
+WebSocket
+WebSockets
+
+# Dictionary Words
+hands-ons

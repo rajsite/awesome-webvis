@@ -1,6 +1,6 @@
 # Contributing
 
-To propose new changes [fork and edit the README.md](https://github.com/rajsite/awesome-webvis/edit/master/README.md) and create a pull request!
+To propose new changes [fork and edit the `README.md`](https://github.com/rajsite/awesome-webvis/edit/master/README.md) and create a pull request!
 
 ## Developer Certificate of Origin (DCO)
 
@@ -32,4 +32,4 @@ To propose new changes [fork and edit the README.md](https://github.com/rajsite/
 
 (taken from [developercertificate.org](https://developercertificate.org/))
 
-See [LICENSE](LICENSE) for details about how awesome-webvis is licensed.
+See [LICENSE](LICENSE) for details about how `awesome-webvis` is licensed.
