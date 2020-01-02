@@ -80,12 +80,15 @@ Tutorials, blogs, hands-ons, tweets, and articles on WebVIs 📰.
 - [Boring Engineer: Web Monitor and Control application using NI SystemLink APIs](https://boringengineer.com/2018/10/21/web-monitor-and-control-application-using-ni-systemlink-apis) - WebVIs + SystemLink APIS for monitoring. October 2019.
 - [TestStand Executor](https://github.com/joshuaprewitt/teststand-executor) - WebVIs + SystemLink to remotely execute TestStand sequences. October 2019.
 - [SystemLink file browser](https://github.com/joshuaprewitt/systemlink-file-browser) - Use SystemLink jobs to read a file in a WebVI from a RT target. [Community](https://forums.ni.com/t5/SystemLink/Target-User-Management-Feature-and-other-features-of-target-web/m-p/3972164/highlight/true?profile.language=en#M1073). September 2019.
+- [@wimtormans: "Finally had some time to do some work on my hobby project. Indoor monitoring with #LabVIEW on a #RaspberryPi and visualize the data with a #LabVIEWNXG #WebVI on a #Systemlink server… Everything is running at the @VI_Technologies offices :-)"](https://twitter.com/wimtormans/status/1125314404562681856) - WebVIs on Raspberry Pis! [Source](https://github.com/wimtormans/LabVIEWRaspberryPI_IndoorMonitoring). May 2019.
 - [Hands-on: Create Web-Ready User Interfaces with the LabVIEW NXG Web Module](https://github.com/eyesonvis/niweek2019-webVI-hands-on) - Create WeVIs that communicate with LabVIEW applications. NIWeek May 2019.
 - [Boring Engineer: NI Web Technology: Monitor and Control Systems](https://boringengineer.com/2018/07/29/ni-web-technology-monitor-and-control-systems) - WebVIs + LabVIEW Web Services for monitoring. July 2018.
 - [Boring Engineer: NXG WebVI: How to access and embed web service and resources](https://boringengineer.com/2018/07/15/webvi-accessing-and-embedding-web-service-and-resources) - Embed images, iframes, and use HTTP with web services. July 2018.
 - [Boring Engineer: NXG WebVI : Develop, Deploy and Host a Simple Web Game](https://boringengineer.com/2018/07/15/develop-deploy-host-webvi) - Learn the basics of making WebVIs by creating a math game! July 2018.
-- ["Back online with the #RaspberryPi and #LabVIEW. Currently running a #NXG #Webvi on an Apache webserver on a raspberry pi :-)"](https://twitter.com/wimtormans/status/968934520866131968) - WebVIs on Raspberry Pis! [Source](https://github.com/wimtormans/LabVIEWRaspberryPI_IndoorMonitoring). February 2018.
 - [Latest enhancements to LabVIEW NXG include WebVI, expanded instrument coverage](https://www.testandmeasurementtips.com/latest-enhancements-labview-nxg-include-webvi-expanded-instrument-coverage) - WebVIs are here! January 2018.
+- [@rajsite "THE #WEBVI IS NOW OFFICIALLY RELEASED IN LABVIEW NXG 2 WEB MODULE! WE MADE A THING, USE IT TO MAKE SOME TOO! @NIglobal @labview #LabVIEW #NXG"](https://twitter.com/rajsite/status/955978573181079552) - WebVIs released! 🎉. January 2018.
+- [@rajsite "LabVIEW running in a browser with the #WebVI and LabVIEW NXG 2 Beta! #LabVIEW #NIWeek #NIWeek2017"](https://twitter.com/rajsite/status/867074013478170624) - NI showing WebVIs as would first be available in the NXG 2.0 beta. NIWeek May 2017.
+- [@rajsite "A glimpse into the future! 🔮✨ #WebVI @labview #NIWEEK2016 #NIWeek"](https://twitter.com/rajsite/status/760869975363944448) - NI first teasing WebVI technology. NIWeek August 2016.
 
 ## Presentations
 
@@ -140,3 +143,4 @@ Awesome WebVI resources in non-english languages 🌐.
   - [Teorema de Ferraris](http://simuladoresdie.uva.es/ferraris)
   - [Transformadores eléctricos](http://simuladoresdie.uva.es/transformador)
 - [NIが提供する新しい遠隔監視ツール 「SystemLink」を学ぼう](https://forums.ni.com/t5/LabVIEW-Caf%C3%A9/NI%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E9%81%A0%E9%9A%94%E7%9B%A3%E8%A6%96%E3%83%84%E3%83%BC%E3%83%AB-SystemLink-%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86/gpm-p/3967644)
+- [LabView NXG si aggiorna: arrivano i WebVI](https://www.innovationpost.it/2018/01/25/labview-nxg-si-aggiorna-arrivano-webvi)
