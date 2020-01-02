@@ -25,8 +25,7 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 ## Contents
 
 - [What are WebVIs](#what-are-webvis)
-- [Shipping Examples](#shipping-examples)
-- [Shipping Documentation](#shipping-documentation)
+- [Documentation](#documentation)
 - [Tutorials](#tutorials)
 - [Presentations](#presentations)
 - [Just for Fun](#just-for-fun)
@@ -42,9 +41,11 @@ WebVIs are standalone HTML + JS + CSS webpages that can acquire data (usually fr
 
 Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIEW NXG Web Module?](https://www.ni.com/en-us/shop/electronic-test-instrumentation/add-ons-for-electronic-test-and-instrumentation/what-is-labview-nxg-web-module.html) page.
 
-## Shipping Examples
+## Documentation
 
-Examples included with the LabVIEW NXG Web Module and [available on GitHub](https://github.com/ni/webvi-examples) from National Instruments 🦅.
+Documentation and examples included with the LabVIEW NXG Web Module and [available on GitHub](https://github.com/ni/webvi-examples) from National Instruments 🦅.
+
+### Examples
 
 - [Call 3rd Party Web Service](https://github.com/ni/webvi-examples/blob/master/Call3rdPartyWebService) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI. [Demo](https://ni.github.io/webvi-examples/Call3rdPartyWebService/Builds/WebApp_Web%20Server).
 - [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples/blob/master/CallJavaScriptFromAWebVI) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page. [Demo](https://ni.github.io/webvi-examples/CallJavaScriptFromAWebVI/Builds/WebApp_Web%20Server).
@@ -56,10 +57,6 @@ Examples included with the LabVIEW NXG Web Module and [available on GitHub](http
 - [Incorporate User Resource into WebVI](https://github.com/ni/webvi-examples/blob/master/IncorporateUserResources) - Add resource files such as images, CSS files, JavaScript files, and HTML files to your web application. [Demo](https://ni.github.io/webvi-examples/IncorporateUserResources/Builds/WebApp_Web%20Server).
 - [Multiple Top-Level WebVIs](https://github.com/ni/webvi-examples/blob/master/MultipleTopLevelWebVIs) - Create a web application with multiple pages linked together. [Demo](https://ni.github.io/webvi-examples/MultipleTopLevelWebVIs/Builds/WebApp_Web%20Server).
 - [SystemLink Web Interface Template](https://github.com/ni/systemlink-web-interface-template) - Create custom tiles for WebVIs on the NI Web Server landing page.
-
-## Shipping Documentation
-
-Direct links to use LabVIEW NXG Web Module documentation from National Instruments 📚.
 
 ### Manuals
 
