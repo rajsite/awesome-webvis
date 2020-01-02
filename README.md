@@ -27,6 +27,7 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 - [What are WebVIs](#what-are-webvis)
 - [Shipping Examples](#shipping-examples)
 - [Shipping Documentation](#shipping-documentation)
+- [Tutorials](#tutorials)
 - [Presentations](#presentations)
 - [Just for Fun](#just-for-fun)
 - [Spotted in the Wild](#spotted-in-the-wild)
@@ -45,59 +46,80 @@ Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIE
 
 Examples included with the LabVIEW NXG Web Module and [available on GitHub](https://github.com/ni/webvi-examples) from National Instruments 🦅.
 
-- [Call 3rd Party Web Service](https://github.com/ni/webvi-examples#call-3rd-party-web-service) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI.
-- [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples#call-javascript-from-a-webvi) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page.
-- [Call LabVIEW Web Service](https://github.com/ni/webvi-examples#call-labview-web-service) - Acquire data with a LabVIEW Web Service to share with a WebVI.
-- [Call SystemLink Data Services](https://github.com/ni/webvi-examples#call-systemlink-data-services) - Communication with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module.
-- [Connect WebVI to WebSocket Echo Server](https://github.com/ni/webvi-examples#connect-webvi-to-websocket-echo-server) - Stream data to WebVIs with WebSockets.
-- [Customize WebVI with CSS](https://github.com/ni/webvi-examples#customize-webvi-with-css) - Advanced customization of a WebVI's style with CSS.
-- [Embed Content into a WebVI](https://github.com/ni/webvi-examples#embed-content-into-a-webvi) - Add custom HTML to a WebVI.
-- [Incorporate User Resource into WebVI](https://github.com/ni/webvi-examples#incorporate-user-resource-into-webvi) - Add resource files such as images, CSS files, JavaScript files, and HTML files to your web application.
-- [Multiple Top-Level WebVIs](https://github.com/ni/webvi-examples#multiple-top-level-webvis) - Create a web application with multiple pages linked together.
+- [Call 3rd Party Web Service](https://github.com/ni/webvi-examples/blob/master/Call3rdPartyWebService) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI. [Demo](https://ni.github.io/webvi-examples/Call3rdPartyWebService/Builds/WebApp_Web%20Server).
+- [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples/blob/master/CallJavaScriptFromAWebVI) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page. [Demo](https://ni.github.io/webvi-examples/CallJavaScriptFromAWebVI/Builds/WebApp_Web%20Server).
+- [Call LabVIEW Web Service](https://github.com/ni/webvi-examples/blob/master/CallLabVIEWWebService) - Acquire data with a LabVIEW Web Service to share with a WebVI. [Demo](https://ni.github.io/webvi-examples/CallLabVIEWWebService/Builds/WebApp_Web%20Server).
+- [Call SystemLink Data Services](https://github.com/ni/webvi-examples/blob/master/CallSystemLinkDataServices) - Communication with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module. [Demo](https://ni.github.io/webvi-examples/CallSystemLinkDataServices/Builds/Full%20Data%20Services%20App_Web%20Server).
+- [Connect WebVI to WebSocket Echo Server](https://github.com/ni/webvi-examples/blob/master/ConnectWebVIToWebSocketEchoServer) - Stream data to WebVIs with WebSockets. [Demo](https://ni.github.io/webvi-examples/ConnectWebVIToWebSocketEchoServer/Builds/WebApp_Web%20Server).
+- [Customize WebVI with CSS](https://github.com/ni/webvi-examples/blob/master/CustomizeWithCss) - Advanced customization of a WebVI's style with CSS. [Demo](https://ni.github.io/webvi-examples/CustomizeWithCss/Builds/WebApp_Web%20Server).
+- [Embed Content into a WebVI](https://github.com/ni/webvi-examples/blob/master/EmbedContentIntoWebVI) - Add custom HTML to a WebVI. [Demo](https://ni.github.io/webvi-examples/EmbedContentIntoWebVI/Builds/WebApp_Web%20Server).
+- [Incorporate User Resource into WebVI](https://github.com/ni/webvi-examples/blob/master/IncorporateUserResources) - Add resource files such as images, CSS files, JavaScript files, and HTML files to your web application. [Demo](https://ni.github.io/webvi-examples/IncorporateUserResources/Builds/WebApp_Web%20Server).
+- [Multiple Top-Level WebVIs](https://github.com/ni/webvi-examples/blob/master/MultipleTopLevelWebVIs) - Create a web application with multiple pages linked together. [Demo](https://ni.github.io/webvi-examples/MultipleTopLevelWebVIs/Builds/WebApp_Web%20Server).
+- [SystemLink Web Interface Template](https://github.com/ni/systemlink-web-interface-template) - Create custom tiles for WebVIs on the NI Web Server landing page.
 
 ## Shipping Documentation
 
-Direct links to use LabVIEW NXG Web Module documentation from National Instruments 📖.
+Direct links to use LabVIEW NXG Web Module documentation from National Instruments 📚.
 
 ### Manuals
 
-- [LabVIEW NXG Web Module](http://www.ni.com/documentation/en/labview-web-module/) - Creating, building, and hosting WebVIs.
+- [LabVIEW NXG Web Module](http://www.ni.com/documentation/en/labview-web-module) - Creating, building, and hosting WebVIs.
+  - SystemLink Data Services for LabVIEW NXG Web Module - [Tags](http://www.ni.com/documentation/en/labview-web-module/latest/manual/transfer-tags), [Messages](http://www.ni.com/documentation/en/labview-web-module/latest/manual/transfer-messages), and [SystemLink Cloud Connector](http://www.ni.com/documentation/en/labview-web-module/latest/manual/connecting-to-systemlink-cloud).
+  - Hosting WebVIs - [NI Web Server](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-ni-web-server), [LabVIEW Web Service](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-labview-server), and [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud/latest/manual/hosting-web-application-on-systemlink-cloud).
 - [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud) - Cloud service from NI to securely make WebVIs available on the internet.
-- [HTTP Nodes](http://www.ni.com/documentation/en/labview/latest/node-ref/http-nodes/) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
+- [HTTP Nodes](http://www.ni.com/documentation/en/labview/latest/node-ref/http-nodes) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
 
 ### Videos
 
 - [LabVIEW NXG: Getting started with Web VIs](https://www.youtube.com/watch?v=2R5x5bzp3uk) - Introduction to the WebVI editing experience in NXG 2.
 
+## Tutorials
+
+Tutorials, blogs, hands-ons, tweets, and articles on WebVIs 📰.
+
+- [Boring Engineer: Web Monitor and Control application using NI SystemLink APIs](https://boringengineer.com/2018/10/21/web-monitor-and-control-application-using-ni-systemlink-apis) - WebVIs + SystemLink APIS for monitoring. October 2019.
+- [TestStand Executor](https://github.com/joshuaprewitt/teststand-executor) - WebVIs + SystemLink to remotely execute TestStand sequences. October 2019.
+- [SystemLink file browser](https://github.com/joshuaprewitt/systemlink-file-browser) - Use SystemLink jobs to read a file in a WebVI from a RT target. [Community](https://forums.ni.com/t5/SystemLink/Target-User-Management-Feature-and-other-features-of-target-web/m-p/3972164/highlight/true?profile.language=en#M1073). September 2019.
+- [Hands-on: Create Web-Ready User Interfaces with the LabVIEW NXG Web Module](https://github.com/eyesonvis/niweek2019-webVI-hands-on) - Create WeVIs that communicate with LabVIEW applications. NIWeek May 2019.
+- [Boring Engineer: NI Web Technology: Monitor and Control Systems](https://boringengineer.com/2018/07/29/ni-web-technology-monitor-and-control-systems) - WebVIs + LabVIEW Web Services for monitoring. July 2018.
+- [Boring Engineer: NXG WebVI: How to access and embed web service and resources](https://boringengineer.com/2018/07/15/webvi-accessing-and-embedding-web-service-and-resources) - Embed images, iframes, and use HTTP with web services. July 2018.
+- [Boring Engineer: NXG WebVI : Develop, Deploy and Host a Simple Web Game](https://boringengineer.com/2018/07/15/develop-deploy-host-webvi) - Learn the basics of making WebVIs by creating a math game! July 2018.
+- ["Back online with the #RaspberryPi and #LabVIEW. Currently running a #NXG #Webvi on an Apache webserver on a raspberry pi :-)"](https://twitter.com/wimtormans/status/968934520866131968) - WebVIs on Raspberry Pis! [Source](https://github.com/wimtormans/LabVIEWRaspberryPI_IndoorMonitoring). February 2018.
+- [Latest enhancements to LabVIEW NXG include WebVI, expanded instrument coverage](https://www.testandmeasurementtips.com/latest-enhancements-labview-nxg-include-webvi-expanded-instrument-coverage) - WebVIs are here! January 2018.
+
 ## Presentations
 
-Presentations, blogs, and articles about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
+Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
 
-- [NXG WebVIs and SystemLink Tags​](https://forums.ni.com/t5/Minneapolis-LabVIEW-User-Group/NXG-Web-VIs-and-SystemLink-Tags/gpm-p/3975714) - Working with Symation to make a tablet UI to communicate with a PLC and other instruments (Oct 2019).
-- [Creating Powerful Web Apps With the LabVIEW NXG Web Module](https://www.youtube.com/watch?v=AjAXcuzY9rk) - Matthias details creating a sophisticated web application with a responsive UI, user login, and database backend. [Source Studio Bods](https://www.studiobods.com/en/niweek2019-ts170/). [Source LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019) (May 2019).
-- [Using LabVIEW NXG Web Technologies to Enhance Existing Applications](https://www.youtube.com/watch?v=eGWHaZC2t2g) - Rita introduces WebVIs and shows communication techniques and Matthias introduces creating web applications backed by databases. [Source LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019) (May 2019).
-- [LabVIEW NXG web module Remote server client](https://www.youtube.com/watch?v=v81cUhdLeIc) - Creating a WebVI, setting up the NI Web Server, testing, and deploying a WebVI (Jun 2018).
-- [Latest enhancements to LabVIEW NXG include WebVI, expanded instrument coverage](https://www.testandmeasurementtips.com/latest-enhancements-labview-nxg-include-webvi-expanded-instrument-coverage/) - Title says it all lol (Jan 2018).
-- [Creating Web Enabled HMIs with LabVIEW NXG](https://www.youtube.com/watch?v=N4XCNfGapc4) - NIWeek 2017 WebVI demonstration by Omid, Mark, and Eli (May 2017).
+- [NXG WebVIs and SystemLink Tags​](https://forums.ni.com/t5/Minneapolis-LabVIEW-User-Group/NXG-Web-VIs-and-SystemLink-Tags/gpm-p/3975714) - Working with Symation to make a tablet UI to communicate with a PLC and other instruments. October 2019.
+- [Creating Powerful Web Apps With the LabVIEW NXG Web Module](https://www.youtube.com/watch?v=AjAXcuzY9rk) - Matthias details creating a sophisticated web application with a responsive UI, user login, and database backend. [Studio Bods](https://www.studiobods.com/en/niweek2019-ts170) / [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
+- [Customizing Your WebVIs](https://www.youtube.com/watch?v=Q19tdIw5MgE) - Darin and Milan follow-up the NIWeek 2018 presentation talking about styling WebVIs and creating Add-On libraries with the JSLI. [Community page](https://forums.ni.com/t5/LabVIEW-Web-Development/NIWeek-2019-Customizing-Your-WebVIs/ta-p/3928168) / [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
+- [Using LabVIEW NXG Web Technologies to Enhance Existing Applications](https://www.youtube.com/watch?v=eGWHaZC2t2g) - Rita introduces WebVIs and shows communication techniques and Matthias introduces creating web applications backed by databases. [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
+- [LabVIEW NXG web module Remote server client](https://www.youtube.com/watch?v=v81cUhdLeIc) - Creating a WebVI, setting up the NI Web Server, testing, and deploying a WebVI. June 2018.
+- [Styling and Customizing WebVIs](https://learn.ni.com/center-of-excellence/resources/1144/styling-and-customizing-webvis) - Mark and Milan go over common styling scenarios, a deep dive using devtools to style WebVIs, and tease the future of the JSLI document. NIWeek May 2018.
+- [Creating Web Enabled HMIs with LabVIEW NXG](https://www.youtube.com/watch?v=N4XCNfGapc4) - WebVI demonstration by Omid, Mark, and Eli. NIWeek May 2017.
 
 ## Just for Fun
 
 Games and other fun WebVIs you can play right away in the browser 🕹.
 
-- [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche/) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
-- [Cyclone 🌀](https://rawcdn.githack.com/navinsubramani/BoringGames/3072dc48f89b5fcaaca905541646b81d92e519bd/Web%20Application/source%20code/Builds/cyclone_Web%20Server/index.html) - Use your reflexes to land on the cyclone. [Source](https://github.com/navinsubramani/BoringGames).
-- [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji/) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
-- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire/) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
+- [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
+- [Cyclone 🌀](https://www.boringengineer.com/games/cyclone) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/games/home). [Source](https://github.com/navinsubramani/BoringGames).
+- [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
+- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
-- [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex/) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
-- [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake/) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
+- [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
+- [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
 
 ## Spotted in the Wild
 
 Screenshots and videos of WebVIs being used inconspicuously in the wild 🔍.
 
-- [DAM Group Leak Test Platform @ 2:13](https://www.youtube.com/watch?v=REhYcX-w3iU&t=133) - Looks like the NXG 2 button border style. Not running in a normal browser. Awesome music.
- Rating ⭐⭐⭐⭐⭐.
+- [DAM Group Leak Test Platform @ 2:13](https://www.youtube.com/watch?v=REhYcX-w3iU&t=133) - Looks like the NXG 2 button border style. Not running in a normal browser. Awesome music. <br> Rating ⭐⭐⭐⭐⭐.
+- GCentral - The [GCentral Package Search](https://www.gcentral.org) tool is a WebVI. A sophisticated LabVIEW Web Service backend with user authentication, database storage, and a WebVI frontend. [Source](https://github.com/gcentral/Website). <br> Rating ⭐⭐⭐⭐⭐.
+- GitHub - Discover WebVIs using the [`webvi`](https://github.com/topics/webvi) GitHub tag, finding source with the [`gviweb`](https://github.com/search?q=VirtualInstrument+extension%3Agviweb&type=Code) file extension, or finding [built WebVIs](https://github.com/search?q=enqueue+filename%3A.via.txt&type=Code) with a clever search.
+
+   You can also use a tool like [githack](https://raw.githack.com) to quickly run a built WebVI published to GitHub.
 
 ## Experimental
 
@@ -111,3 +133,10 @@ Crazy experiments that try to push WebVIs to their limits 🧪.
 Awesome WebVI resources in non-english languages 🌐.
 
 - [Réaliser des applications Web avec LabVIEW (CG & NXG) pour publier vos données](https://forums.ni.com/t5/luc-desruelle-s-Blogue/R%C3%A9aliser-des-applications-Web-avec-LabVIEW-CG-amp-NXG-pour/ba-p/3943768)
+- [Simuladores - Departamento de Ingeniería Eléctrica - Universidad de Valladolid](http://die.uva.es/simuladores)
+  - [Corriente Alterna](http://simuladoresdie.uva.es/alterna)
+  - [Transitorios eléctricos](http://simuladoresdie.uva.es/transitorios)
+  - [Máquina asíncrona](http://simuladoresdie.uva.es/asincrona)
+  - [Teorema de Ferraris](http://simuladoresdie.uva.es/ferraris)
+  - [Transformadores eléctricos](http://simuladoresdie.uva.es/transformador)
+- [NIが提供する新しい遠隔監視ツール 「SystemLink」を学ぼう](https://forums.ni.com/t5/LabVIEW-Caf%C3%A9/NI%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E9%81%A0%E9%9A%94%E7%9B%A3%E8%A6%96%E3%83%84%E3%83%BC%E3%83%AB-SystemLink-%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86/gpm-p/3967644)
