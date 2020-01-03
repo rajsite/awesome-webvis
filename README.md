@@ -26,6 +26,7 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 
 - [What are WebVIs](#what-are-webvis)
 - [Documentation](#documentation)
+- [Add-Ons](#add-ons)
 - [Tutorials](#tutorials)
 - [Presentations](#presentations)
 - [Just for Fun](#just-for-fun)
@@ -69,6 +70,16 @@ Documentation and examples included with the LabVIEW NXG Web Module and [availab
 ### Videos
 
 - [LabVIEW NXG: Getting started with Web VIs](https://www.youtube.com/watch?v=2R5x5bzp3uk) - Introduction to the WebVI editing experience in NXG 2.
+
+## Add-Ons
+
+Libraries from the community to add new capabilities to WebVIs 🧩.
+
+- [ECharts](https://github.com/rajsite/webvi-experiments/tree/master/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
+- [File Tasks](https://github.com/rajsite/webvi-experiments/tree/master/FileTasks) - From browser load local files / capture from webcam using Uppy library.
+- [Leaflet](https://github.com/rajsite/webvi-experiments/tree/master/Leaflet) - Interactive maps and markers. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
+- [Rich Text](https://github.com/rajsite/webvi-experiments/tree/master/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
+- [Sweet Alert](https://github.com/rajsite/webvi-experiments/tree/master/SweetAlert) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert)
 
 ## Tutorials
 

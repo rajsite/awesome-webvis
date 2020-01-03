@@ -12,9 +12,13 @@ VI_Technologies
 wimtormans
 
 # Projects
+CKEditor
+ECharts
 FFTDemo
 GCentral
 PSX
+Trix
+Uppy
 WebVINode
 
 # NI Terms
@@ -35,12 +39,16 @@ WebVI
 WebVIs
 
 # Tech Terms
+2D
+3D
+add-ons
 APIs
 backend
 CSS
 developercertificate.org
 DCO
 devtools
+dialogs
 frontend
 githack.com
 HMIs
