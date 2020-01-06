@@ -116,7 +116,7 @@ Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community �
 Games and other fun WebVIs you can play right away in the browser 🕹.
 
 - [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
-- [Cyclone 🌀](https://www.boringengineer.com/games/cyclone) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/games/home). [Source](https://github.com/navinsubramani/BoringGames).
+- [Cyclone 🌀](https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/gameview/home/). [Source](https://github.com/navinsubramani/BoringGames).
 - [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
 - [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
