@@ -44,7 +44,7 @@ Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIE
 
 ## Documentation
 
-Documentation and examples included with the LabVIEW NXG Web Module and [available on GitHub](https://github.com/ni/webvi-examples) from National Instruments 🦅.
+Documentation and examples provided by National Instruments 🦅.
 
 ### Examples
 
