@@ -130,9 +130,9 @@ Screenshots and videos of WebVIs being used inconspicuously in the wild 🔍.
 - [DAM Group Leak Test Platform @ 2:13](https://www.youtube.com/watch?v=REhYcX-w3iU&t=133) - Looks like the NXG 2 button border style. Not running in a normal browser. Awesome music. <br> Rating ⭐⭐⭐⭐⭐.
 - GCentral - The [GCentral Package Search](https://www.gcentral.org) tool is a WebVI. A sophisticated LabVIEW Web Service backend with user authentication, database storage, and a WebVI frontend. [Source](https://github.com/gcentral/Website). <br> Rating ⭐⭐⭐⭐⭐.
 
-Discover WebVIs on GitHub using the [`webvi`](https://github.com/topics/webvi) GitHub tag, finding source with the [`gviweb`](https://github.com/search?q=VirtualInstrument+extension%3Agviweb&type=Code) file extension, or finding [built WebVIs](https://github.com/search?q=enqueue+filename%3A.via.txt&type=Code) with a clever search.
+Discover WebVIs on GitHub using the [`webvi`](https://github.com/topics/webvi) GitHub topic, find WebVI source by searching for the [`gviweb`](https://github.com/search?q=VirtualInstrument+extension%3Agviweb&type=Code) file extension, or find [built WebVIs](https://github.com/search?q=enqueue+filename%3A.via.txt&type=Code) with a clever search.
 
-You can also use a tool like [githack.com](https://raw.githack.com) to quickly run a built WebVI published to GitHub in your browser.
+If you find a built WebVI on GitHub you can also use an online tool like [githack.com](https://raw.githack.com) to quickly preview and run the built WebVI in your browser.
 
 ## Experimental
 
