@@ -79,7 +79,7 @@ Libraries from the community to add new capabilities to WebVIs 🧩.
 - [File Tasks](https://github.com/rajsite/webvi-experiments/tree/master/FileTasks) - From browser load local files / capture from webcam using Uppy library.
 - [Leaflet](https://github.com/rajsite/webvi-experiments/tree/master/Leaflet) - Interactive maps and markers. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
 - [Rich Text](https://github.com/rajsite/webvi-experiments/tree/master/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
-- [Sweet Alert](https://github.com/rajsite/webvi-experiments/tree/master/SweetAlert) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert)
+- [Sweet Alert](https://forums.ni.com/t5/Example-Programs/SweetAlert-Highly-configurable-popups-for-WebVIs-in-LabVIEW-NXG/ta-p/4011222) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert)
 
 ## Tutorials
 
