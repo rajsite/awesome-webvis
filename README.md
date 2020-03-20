@@ -67,6 +67,10 @@ Documentation and examples provided by National Instruments 🦅.
 - [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud) - Cloud service from NI to securely make WebVIs available on the internet.
 - [HTTP Nodes](http://www.ni.com/documentation/en/labview/latest/node-ref/http-nodes) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
 
+### Training
+
+- [Creating Web Applications Using LabVIEW NXG](https://learn.ni.com/training/resources/1330/creating-web-applications-using-labview-nxg) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI.
+
 ### Videos
 
 - [LabVIEW NXG: Getting started with Web VIs](https://www.youtube.com/watch?v=2R5x5bzp3uk) - Introduction to the WebVI editing experience in NXG 2.
