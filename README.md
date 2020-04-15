@@ -57,7 +57,7 @@ Documentation and examples provided by National Instruments 🦅.
 - [Embed Content into a WebVI](https://github.com/ni/webvi-examples/blob/master/EmbedContentIntoWebVI) - Add custom HTML to a WebVI. [Demo](https://ni.github.io/webvi-examples/EmbedContentIntoWebVI/Builds/WebApp_Web%20Server).
 - [Incorporate User Resource into WebVI](https://github.com/ni/webvi-examples/blob/master/IncorporateUserResources) - Add resource files such as images, CSS files, JavaScript files, and HTML files to your web application. [Demo](https://ni.github.io/webvi-examples/IncorporateUserResources/Builds/WebApp_Web%20Server).
 - [Multiple Top-Level WebVIs](https://github.com/ni/webvi-examples/blob/master/MultipleTopLevelWebVIs) - Create a web application with multiple pages linked together. [Demo](https://ni.github.io/webvi-examples/MultipleTopLevelWebVIs/Builds/WebApp_Web%20Server).
-- [SystemLink Web Interface Template](https://github.com/ni/systemlink-web-interface-template) - Create custom tiles for WebVIs on the NI Web Server landing page.
+- [SystemLink Web Interface Template](https://github.com/ni/systemlink-web-interface-template) - Create custom tiles for WebVIs on the NI Web Server landing page. [Forum post describing configuration](https://forums.ni.com/t5/SystemLink/Webvi-plugin-template-required-changes-to-avoid-duplicates/m-p/4036080/highlight/true#M1338).
 
 ### Manuals
 
