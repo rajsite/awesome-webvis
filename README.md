@@ -141,7 +141,7 @@ Screenshots and videos of WebVIs being used inconspicuously in the wild 🔍.
 
 Discover WebVIs on GitHub using the [`webvi`](https://github.com/topics/webvi) GitHub topic, find WebVI source by searching for the [`gviweb`](https://github.com/search?q=VirtualInstrument+extension%3Agviweb&type=Code) file extension, or find [built WebVIs](https://github.com/search?q=enqueue+filename%3A.via.txt&type=Code) with a clever search.
 
-If you find a built WebVI on GitHub you can also use an online tool like [githack.com](https://raw.githack.com) to quickly preview and run the built WebVI in your browser.
+<!-- If you find a built WebVI on GitHub you can also use an online tool like [githack.com](https://raw.githack.com) to quickly preview and run the built WebVI in your browser. -->
 
 ## Experimental
 
