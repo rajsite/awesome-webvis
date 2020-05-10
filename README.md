@@ -62,7 +62,7 @@ Documentation and examples provided by National Instruments 🦅.
 ### Manuals
 
 - [LabVIEW NXG Web Module](http://www.ni.com/documentation/en/labview-web-module) - Creating, building, and hosting WebVIs.
-  - SystemLink Data Services for LabVIEW NXG Web Module - [Tags](http://www.ni.com/documentation/en/labview-web-module/latest/manual/transfer-tags), [Messages](http://www.ni.com/documentation/en/labview-web-module/latest/manual/transfer-messages), and [SystemLink Cloud Connector](http://www.ni.com/documentation/en/labview-web-module/latest/manual/connecting-to-systemlink-cloud).
+  - [Communicating Data with Web Services Using WebVIs](http://www.ni.com/documentation/en/labview-web-module/latest/manual/communicating-data-with-webvi/)
   - Hosting WebVIs - [NI Web Server](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-ni-web-server), [LabVIEW Web Service](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-labview-server), and [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud/latest/manual/hosting-web-application-on-systemlink-cloud).
 - [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud) - Cloud service from NI to securely make WebVIs available on the internet.
 - [HTTP Nodes](http://www.ni.com/documentation/en/labview/latest/node-ref/http-nodes) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
