@@ -80,7 +80,7 @@ Documentation and examples provided by National Instruments 🦅.
 Libraries from the community to add new capabilities to WebVIs 🧩.
 
 - [ECharts](https://github.com/rajsite/webvi-experiments/tree/master/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
-- [File Tasks](https://github.com/rajsite/webvi-experiments/tree/master/FileTasks) - From browser load local files / capture from webcam using Uppy library.
+- [File](https://github.com/rajsite/webvi-experiments/tree/master/File) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library.
 - [Map](https://github.com/rajsite/webvi-experiments/tree/master/Map) - Interactive maps and markers. Google Maps and Leaflet + Open Street Maps examples. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
 - [Rich Text](https://github.com/rajsite/webvi-experiments/tree/master/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
 - [Sweet Alert](https://forums.ni.com/t5/Example-Programs/SweetAlert-Highly-configurable-popups-for-WebVIs-in-LabVIEW-NXG/ta-p/4011222) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert).
