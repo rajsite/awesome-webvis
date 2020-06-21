@@ -154,7 +154,7 @@ Crazy experiments that try to push WebVIs to their limits 🧪.
 
 Awesome WebVI resources in non-english languages 🌐.
 
-- [LabVIEW NXG Web Module Training Slide (Japanese)](https://www.slideshare.net/YusukeTochigi/labview-nxg-web-module-training-slide-234108429)
+- [LabVIEW NXG Web Module Training Slide (Japanese)](https://www.slideshare.net/YusukeTochigi/labview-nxg-web-module-training-slide-235980694)
 - [`Réaliser des applications Web avec LabVIEW (CG & NXG) pour publier vos données`](https://forums.ni.com/t5/luc-desruelle-s-Blogue/R%C3%A9aliser-des-applications-Web-avec-LabVIEW-CG-amp-NXG-pour/ba-p/3943768)
 - [`Simuladores - Departamento de Ingeniería Eléctrica - Universidad de Valladolid`](http://die.uva.es/simuladores)
   - [`Corriente Alterna`](http://simuladoresdie.uva.es/alterna)
