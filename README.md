@@ -80,6 +80,7 @@ Documentation and examples provided by National Instruments 🦅.
 
 Libraries from the community to add new capabilities to WebVIs 🧩.
 
+<!--lint ignore double-link-->
 - [Debug Tools for WebVIs](https://bit.ly/debugtools) - Advanced debugging tools for WebVIs. Includes the Debug Log VI to enable logging arbitrary values to the console. See [`bit.ly/debugtools`](https://bit.ly/debugtools).
 - [ECharts](https://github.com/rajsite/webvi-experiments/tree/master/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
 - [File](https://github.com/rajsite/webvi-experiments/tree/master/File) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library.
@@ -115,7 +116,9 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
 
 - [NXG WebVIs and SystemLink Tags​](https://forums.ni.com/t5/Minneapolis-LabVIEW-User-Group/NXG-Web-VIs-and-SystemLink-Tags/gpm-p/3975714) - Working with Symation to make a tablet UI to communicate with a PLC and other instruments. October 2019.
+<!--lint ignore double-link-->
 - [Creating Powerful Web Apps With the LabVIEW NXG Web Module](https://www.youtube.com/watch?v=AjAXcuzY9rk) - Matthias details creating a sophisticated web application with a responsive UI, user login, and database backend. [Studio Bods](https://www.studiobods.com/en/niweek2019-ts170) / [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
+<!--lint ignore double-link-->
 - [Customizing Your WebVIs](https://www.youtube.com/watch?v=Q19tdIw5MgE) - Darin and Milan follow-up the NIWeek 2018 presentation talking about styling WebVIs and creating Add-On libraries with the JSLI. [Community page](https://forums.ni.com/t5/LabVIEW-Web-Development/NIWeek-2019-Customizing-Your-WebVIs/ta-p/3928168) / [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
 - [Using LabVIEW NXG Web Technologies to Enhance Existing Applications](https://www.youtube.com/watch?v=eGWHaZC2t2g) - Rita introduces WebVIs and shows communication techniques and Matthias introduces creating web applications backed by databases. [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
 - [LabVIEW NXG web module Remote server client](https://www.youtube.com/watch?v=v81cUhdLeIc) - Creating a WebVI, setting up the NI Web Server, testing, and deploying a WebVI. June 2018.
@@ -129,6 +132,7 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 - [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
 - [Cyclone 🌀](https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/gameview/home/). [Source](https://github.com/navinsubramani/BoringGames).
 - [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
+<!--lint ignore double-link-->
 - [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
 - [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).

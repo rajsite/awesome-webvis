@@ -7,9 +7,9 @@
     "link": "glob-exec --foreach \"./*.md\" -- \"npm run markdown-link-check -- -c .linkcheck.json {{file}}\"",
     "markdown-link-check": "markdown-link-check",
     "lint": "markdownlint ./*.md",
-    "awesome-lint": "awesome-lint",
+    "awesome": "awesome-lint ./README.md",
     "spelling": "mdspell --en-us --ignore-numbers --report \"*.md\"",
-    "test": "npm run lint && npm run spelling && awesome-lint && npm run link"
+    "test": "npm run lint && npm run spelling && npm run awesome && npm run link"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,10 @@
   "author": "Milan Raj (@rajsite)",
   "license": "MIT",
   "devDependencies": {
-    "awesome-lint": "^0.13.0",
+    "awesome-lint": "^0.15.2",
     "glob-exec": "^0.1.1",
-    "markdown-link-check": "^3.8.1",
+    "markdown-link-check": "^3.8.3",
     "markdown-spellcheck": "^1.3.1",
-    "markdownlint-cli": "^0.23.1"
+    "markdownlint-cli": "^0.24.0"
   }
 }
