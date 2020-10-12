@@ -69,7 +69,7 @@ Documentation and examples provided by National Instruments ðŸ¦….
 
 ### Training
 
-- [Creating Web Applications Using LabVIEW NXG](https://learn.ni.com/training/resources/1330/creating-web-applications-using-labview-nxg) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI.
+- [Creating Web Applications Using LabVIEW NXG](https://education.ni.com/training/resources/1330/creating-web-applications-using-labview-nxg) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI.
 - [Build a Web App for Your Test System in 30 Minutes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2503837&sessionid=1&key=31D72E0DC82DF56CB36E1F1C341A479C&regTag=&sourcepage=register) - Course showing how to web-enable an existing LabVIEW test system with LabVIEW NXG Web Module and SystemLink Cloud. **Registration required (free)**.
 
 ### Videos
@@ -122,7 +122,7 @@ Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community ð
 - [Customizing Your WebVIs](https://www.youtube.com/watch?v=Q19tdIw5MgE) - Darin and Milan follow-up the NIWeek 2018 presentation talking about styling WebVIs and creating Add-On libraries with the JSLI. [Community page](https://forums.ni.com/t5/LabVIEW-Web-Development/NIWeek-2019-Customizing-Your-WebVIs/ta-p/3928168) / [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
 - [Using LabVIEW NXG Web Technologies to Enhance Existing Applications](https://www.youtube.com/watch?v=eGWHaZC2t2g) - Rita introduces WebVIs and shows communication techniques and Matthias introduces creating web applications backed by databases. [LabVIEW Wiki](https://labviewwiki.org/wiki/NIWeek_2019). NIWeek May 2019.
 - [LabVIEW NXG web module Remote server client](https://www.youtube.com/watch?v=v81cUhdLeIc) - Creating a WebVI, setting up the NI Web Server, testing, and deploying a WebVI. June 2018.
-- [Styling and Customizing WebVIs](https://learn.ni.com/center-of-excellence/resources/1144/styling-and-customizing-webvis) - Mark and Milan go over common styling scenarios, a deep dive using devtools to style WebVIs, and tease the future of the JSLI document. NIWeek May 2018.
+- [Styling and Customizing WebVIs](https://education.ni.com/center-of-excellence/resources/1144/styling-and-customizing-webvis) - Mark and Milan go over common styling scenarios, a deep dive using devtools to style WebVIs, and tease the future of the JSLI document. NIWeek May 2018.
 - [Creating Web Enabled HMIs with LabVIEW NXG](https://www.youtube.com/watch?v=N4XCNfGapc4) - WebVI demonstration by Omid, Mark, and Eli. NIWeek May 2017.
 
 ## Just for Fun
