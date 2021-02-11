@@ -72,6 +72,10 @@ Documentation and examples provided by National Instruments 🦅.
 - [Creating Web Applications Using LabVIEW NXG](https://education.ni.com/training/resources/1330/creating-web-applications-using-labview-nxg) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI.
 - [Build a Web App for Your Test System in 30 Minutes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2503837&sessionid=1&key=31D72E0DC82DF56CB36E1F1C341A479C&regTag=&sourcepage=register) - Course showing how to web-enable an existing LabVIEW test system with LabVIEW NXG Web Module and SystemLink Cloud. **Registration required (free)**.
 
+### Forums
+
+- [Example Code](https://forums.ni.com/t5/Example-Code/tkb-p/3039/label-name/software-labview%20nxg%20web%20module?labels=software-labview%20nxg%20web%20module) - Examples tagged as `LabVIEW NXG Web Module` in the NI Example Code forum.
+
 ### Videos
 
 - [LabVIEW NXG: Getting started with Web VIs](https://www.youtube.com/watch?v=2R5x5bzp3uk) - Introduction to the WebVI editing experience in NXG 2.
