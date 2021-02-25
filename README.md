@@ -25,6 +25,7 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 ## Contents
 
 - [What are WebVIs](#what-are-webvis)
+- [Latest News](#latest-news)
 - [Documentation](#documentation)
 - [Add-Ons](#add-ons)
 - [Tutorials](#tutorials)
@@ -41,6 +42,11 @@ WebVIs are web applications created using the LabVIEW NXG Web Module 🧙‍♂�
 WebVIs build standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some analysis, and present the data in scientific and engineering web controls. The Web Module allows you to use LabVIEW graphical programming to create web applications.
 
 Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIEW NXG Web Module?](https://www.ni.com/en-us/shop/electronic-test-instrumentation/add-ons-for-electronic-test-and-instrumentation/what-is-labview-nxg-web-module.html) page.
+
+## Latest News
+
+- [LabVIEW NXG Web Module 5.1 New Features and Changes](https://www.ni.com/documentation/en/labview-web-module/5.1/manual/new-features-and-changes/) - LabVIEW NXG and Web Module 5.1 released.
+- [Future of the LabVIEW NXG Web Module](https://www.ni.com/en-us/shop/labview/future-of-web-module.html) - LabVIEW NXG development to cease as Web Module and WebVIs become a stand-alone product and continue development.
 
 ## Documentation
 
