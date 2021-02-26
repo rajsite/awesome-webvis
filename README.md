@@ -147,6 +147,7 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
 - [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
 - [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
+- [T-Rex 🦖](https://boringengineer.com/gameview/T-Rex/LabVIEW%20T-Rex.html) - Your favorite offline dinosaur game made online.
 
 ## Spotted in the Wild
 
