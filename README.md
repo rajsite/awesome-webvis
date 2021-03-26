@@ -46,7 +46,7 @@ Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIE
 ## Latest News
 
 - [LabVIEW NXG Web Module 5.1 New Features and Changes](https://www.ni.com/documentation/en/labview-web-module/5.1/manual/new-features-and-changes/) - LabVIEW NXG and Web Module 5.1 released.
-- [Future of the LabVIEW NXG Web Module](https://www.ni.com/en-us/shop/labview/future-of-web-module.html) - LabVIEW NXG development to cease as Web Module and WebVIs become a stand-alone product and continue development.
+- [Future of the LabVIEW NXG Web Module](https://www.ni.com/en-us/shop/labview/future-of-web-module.html) - Web Module and WebVIs to become a stand-alone product and continue development after the end of NXG.
 
 ## Documentation
 
