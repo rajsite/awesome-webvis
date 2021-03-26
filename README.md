@@ -91,12 +91,12 @@ Documentation and examples provided by National Instruments 🦅.
 Libraries from the community to add new capabilities to WebVIs 🧩.
 
 <!--lint ignore double-link-->
-- [Debug Tools for WebVIs](https://bit.ly/debugtools) - Advanced debugging tools for WebVIs. Includes the Debug Log VI to enable logging arbitrary values to the console. See [`bit.ly/debugtools`](https://bit.ly/debugtools).
+- [Debug Tools for WebVI](https://bit.ly/debugtools) - Advanced debugging tools for WebVIs. Includes the Debug Log VI to enable logging arbitrary values to the console. See [`bit.ly/debugtools`](https://bit.ly/debugtools).
 - [ECharts](https://github.com/rajsite/webvi-experiments/tree/master/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
-- [File](https://github.com/rajsite/webvi-experiments/tree/master/File) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library.
-- [Map](https://github.com/rajsite/webvi-experiments/tree/master/Map) - Interactive maps and markers. Google Maps and Leaflet + Open Street Maps examples. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
+- [File for WebVI](https://forums.ni.com/t5/Example-Code/File-for-WebVI/ta-p/4129229) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library. [Demo](https://rajsite.github.io/webvi-experiments/File/).
+- [Maps for WebVI](https://forums.ni.com/t5/Example-Code/Maps-for-WebVI-Google-Maps-and-Open-Street-Maps/ta-p/4106124) - Interactive maps and markers. Google Maps and Leaflet + Open Street Maps examples. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
 - [Rich Text](https://github.com/rajsite/webvi-experiments/tree/master/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
-- [Sweet Alert](https://forums.ni.com/t5/Example-Programs/SweetAlert-Highly-configurable-popups-for-WebVIs-in-LabVIEW-NXG/ta-p/4011222) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert).
+- [Custom Popup Dialogs for WebVI](https://forums.ni.com/t5/Example-Code/Custom-Popup-Dialogs-for-WebVI-SweetAlert/ta-p/4011222) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert).
 
 ## Tutorials
 
