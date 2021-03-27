@@ -92,10 +92,10 @@ Libraries from the community to add new capabilities to WebVIs 🧩.
 
 <!--lint ignore double-link-->
 - [Debug Tools for WebVI](https://bit.ly/debugtools) - Advanced debugging tools for WebVIs. Includes the Debug Log VI to enable logging arbitrary values to the console. See [`bit.ly/debugtools`](https://bit.ly/debugtools).
-- [ECharts](https://github.com/rajsite/webvi-experiments/tree/master/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
+- [ECharts](https://github.com/rajsite/webvi-experiments/tree/main/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
 - [File for WebVI](https://forums.ni.com/t5/Example-Code/File-for-WebVI/ta-p/4129229) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library. [Demo](https://rajsite.github.io/webvi-experiments/File/).
 - [Maps for WebVI](https://forums.ni.com/t5/Example-Code/Maps-for-WebVI-Google-Maps-and-Open-Street-Maps/ta-p/4106124) - Interactive maps and markers. Google Maps and Leaflet + Open Street Maps examples. [Demo](https://rajsite.github.io/webvi-experiments/Leaflet).
-- [Rich Text](https://github.com/rajsite/webvi-experiments/tree/master/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
+- [Rich Text](https://github.com/rajsite/webvi-experiments/tree/main/RichText) - Different rich text editor examples. Demos for [CKEditor](https://rajsite.github.io/webvi-experiments/RichText/ckeditor.html), [Quill](https://rajsite.github.io/webvi-experiments/RichText/quill.html), and [Trix](https://rajsite.github.io/webvi-experiments/RichText/trix.html).
 - [Custom Popup Dialogs for WebVI](https://forums.ni.com/t5/Example-Code/Custom-Popup-Dialogs-for-WebVI-SweetAlert/ta-p/4011222) - Highly configurable modal dialogs. [Demo](https://rajsite.github.io/webvi-experiments/SweetAlert).
 
 ## Tutorials
@@ -112,7 +112,7 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 - [Boring Engineer: NXG WebVI: How to access and embed web service and resources](https://boringengineer.com/2018/07/15/webvi-accessing-and-embedding-web-service-and-resources) - Embed images, iframes, and use HTTP with web services. July 2018.
 - [Boring Engineer: NXG WebVI : Develop, Deploy and Host a Simple Web Game](https://boringengineer.com/2018/07/15/develop-deploy-host-webvi) - Learn the basics of making WebVIs by creating a math game! July 2018.
 - [Latest enhancements to LabVIEW NXG include WebVI, expanded instrument coverage](https://www.testandmeasurementtips.com/latest-enhancements-labview-nxg-include-webvi-expanded-instrument-coverage) - WebVIs are here! January 2018.
-- [First WebVI Prototype](https://github.com/rajsite/webvi-experiments/tree/master/FirstPrototype) - The first `Hello World!` of WebVIs. [Demo](https://rawcdn.githack.com/rajsite/webvi-experiments/8a0858cb5d4a2e301a9dc9c8f6f363530d7f096e/FirstPrototype/test.html). May 2013.
+- [First WebVI Prototype](https://github.com/rajsite/webvi-experiments/tree/main/FirstPrototype) - The first `Hello World!` of WebVIs. [Demo](https://rawcdn.githack.com/rajsite/webvi-experiments/8a0858cb5d4a2e301a9dc9c8f6f363530d7f096e/FirstPrototype/test.html). May 2013.
 
 ### Social media
 
@@ -139,14 +139,14 @@ Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community �
 
 Games and other fun WebVIs you can play right away in the browser 🕹.
 
-- [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Avalanche/nxg).
+- [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Avalanche/nxg).
 - [Cyclone 🌀](https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/gameview/home/). [Source](https://github.com/navinsubramani/BoringGames).
-- [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/DrEmoji/nxg).
+- [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/DrEmoji/nxg).
 <!--lint ignore double-link-->
-- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Fire).
+- [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
-- [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Reflex).
-- [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/master/Arcade/Snake/nxg).
+- [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Reflex).
+- [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Snake/nxg).
 - [T-Rex 🦖](https://boringengineer.com/gameview/T-Rex/LabVIEW%20T-Rex.html) - Your favorite offline dinosaur game made online.
 
 ## Spotted in the Wild
@@ -165,7 +165,7 @@ If you find a built WebVI on GitHub you can also use an online tool like [githac
 Crazy experiments that try to push WebVIs to their limits 🧪.
 
 - [FFTDemo](http://bit.ly/FFTDemo) - Historical experiment using analysis functions in WebVIs.
-- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/master/WebVINode) - Create Node.js server and desktop applications from WebVIs.
+- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/main/WebVINode) - Create Node.js server and desktop applications from WebVIs. [Demo](https://webvicli-express.herokuapp.com/).
 
 ## Non-English Resources
 
