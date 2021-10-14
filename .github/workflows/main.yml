@@ -10,6 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
+    - name: Install node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+        registry-url: 'https://registry.npmjs.org'
+    - name: Update npm
+      run: npm install --global npm@7
     - name: Checkout repository
       uses: actions/checkout@v1
     - name: Install dependencies

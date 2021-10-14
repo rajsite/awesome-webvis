@@ -1,6 +1,6 @@
 # Contributing
 
-To propose new changes [fork and edit the `README.md`](https://github.com/rajsite/awesome-webvis/edit/master/README.md) and create a pull request!
+To propose new changes [fork and edit the `README.md`](https://github.com/rajsite/awesome-webvis/edit/main/README.md) and create a pull request!
 
 ## Developer Certificate of Origin (DCO)
 
