@@ -88,7 +88,7 @@ Documentation and examples provided by National Instruments 🦅.
 
 <!--lint ignore double-link-->
 - [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
-- [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1099s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
+- [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1093s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
 
 ## Add-Ons
 
