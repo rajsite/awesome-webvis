@@ -14,7 +14,7 @@
     <p align="center">
         <a href="https://www.webvi.io">Visit webvi.io</a>&nbsp;&nbsp;&nbsp;
         <a href="#what-are-webvis">What are WebVIs</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-web-module.html">Download</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software.html">Download</a>&nbsp;&nbsp;&nbsp;
         <a href="CONTRIBUTING.md">Contribute Awesome WebVIs</a>
     </p>
 </div>
@@ -38,16 +38,16 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 
 ## What are WebVIs
 
-WebVIs are web applications created using the LabVIEW NXG Web Module 🧙‍♂️.
+WebVIs are web applications created using G Web Development Software 🧙‍♂️.
 
-WebVIs build standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some analysis, and present the data in scientific and engineering web controls. The Web Module allows you to use LabVIEW graphical programming to create web applications.
+WebVIs build standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some analysis, and present the data in scientific and engineering web controls. G Web Development Software allows you to use the LabVIEW graphical programming language (also known as the G programming language) to create web applications.
 
-Find out more at [webvi.io](https://www.webvi.io) or on NI's [What is the LabVIEW NXG Web Module?](https://www.ni.com/en-us/shop/electronic-test-instrumentation/add-ons-for-electronic-test-and-instrumentation/what-is-labview-nxg-web-module.html) page.
+<!--lint ignore double-link-->
+Find out more at [webvi.io](https://www.webvi.io), on NI's [What Is G Web Development Software?](https://www.ni.com/g-web-development-software) page, or from the video [What is G Web? 📺](https://www.youtube.com/watch?v=agqu6zV5n9s).
 
 ## Latest News
 
-- [LabVIEW NXG Web Module 5.1 New Features and Changes](https://www.ni.com/documentation/en/labview-web-module/5.1/manual/new-features-and-changes/) - LabVIEW NXG and Web Module 5.1 released.
-- [Future of the LabVIEW NXG Web Module](https://www.ni.com/en-us/shop/labview/future-of-web-module.html) - Web Module and WebVIs to become a stand-alone product and continue development after the end of NXG.
+- [Introducing G Web Development Software](https://forums.ni.com/t5/G-Web-Development-Software/Introducing-G-Web-Development-Software/td-p/4174519) - G Web Development Software released!
 
 ## Documentation
 
@@ -58,7 +58,7 @@ Documentation and examples provided by National Instruments 🦅.
 - [Call 3rd Party Web Service](https://github.com/ni/webvi-examples/blob/main/Call3rdPartyWebService) - Acquire data from the US Geological Survey Earthquake API and present in a WebVI. [Demo](https://ni.github.io/webvi-examples/Call3rdPartyWebService/Builds/WebApp_Default%20Web%20Server/).
 - [Call JavaScript From a WebVI](https://github.com/ni/webvi-examples/blob/main/CallJavaScriptFromAWebVI) - Create a JavaScript Library Interface (JSLI) document to interact with JS in a page. [Demo](https://ni.github.io/webvi-examples/CallJavaScriptFromAWebVI/Builds/WebApp_Default%20Web%20Server/).
 - [Call LabVIEW Web Service](https://github.com/ni/webvi-examples/blob/main/CallLabVIEWWebService) - Acquire data with a LabVIEW Web Service to share with a WebVI. [Demo](https://ni.github.io/webvi-examples/CallLabVIEWWebService/Builds/WebApp_Default%20Web%20Server/).
-- [Call SystemLink Data Services](https://github.com/ni/webvi-examples/blob/main/CallSystemLinkDataServices) - Communication with high-level tags, messages, and file APIs included with LabVIEW NXG Web Module. [Demo](https://ni.github.io/webvi-examples/CallSystemLinkDataServices/Builds/Full%20Data%20Services%20App_Default%20Web%20Server/).
+- [Call SystemLink Data Services](https://github.com/ni/webvi-examples/blob/main/CallSystemLinkDataServices) - Communication with high-level tags, messages, and file APIs included with G Web Development Software. [Demo](https://ni.github.io/webvi-examples/CallSystemLinkDataServices/Builds/Full%20Data%20Services%20App_Default%20Web%20Server/).
 - [Connect WebVI to WebSocket Echo Server](https://github.com/ni/webvi-examples/blob/main/ConnectWebVIToWebSocketEchoServer) - Stream data to WebVIs with WebSockets. [Demo](https://ni.github.io/webvi-examples/ConnectWebVIToWebSocketEchoServer/Builds/WebApp_Default%20Web%20Server/).
 - [Customize WebVI with CSS](https://github.com/ni/webvi-examples/blob/main/CustomizeWithCss) - Advanced customization of a WebVI's style with CSS. [Demo](https://ni.github.io/webvi-examples/CustomizeWithCss/Builds/WebApp_Default%20Web%20Server/).
 - [Embed Content into a WebVI](https://github.com/ni/webvi-examples/blob/main/EmbedContentIntoWebVI) - Add custom HTML to a WebVI. [Demo](https://ni.github.io/webvi-examples/EmbedContentIntoWebVI/Builds/WebApp_Default%20Web%20Server/).
@@ -68,25 +68,27 @@ Documentation and examples provided by National Instruments 🦅.
 
 ### Manuals
 
-- [LabVIEW NXG Web Module](http://www.ni.com/documentation/en/labview-web-module) - Creating, building, and hosting WebVIs.
-  - [Communicating Data with Web Services Using WebVIs](http://www.ni.com/documentation/en/labview-web-module/latest/manual/communicating-data-with-webvi/)
-  - Hosting WebVIs - [NI Web Server](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-ni-web-server), [LabVIEW Web Service](http://www.ni.com/documentation/en/labview-web-module/latest/manual/hosting-labview-server), and [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud/latest/manual/hosting-web-application-on-systemlink-cloud).
+- [G Web Development Software](http://www.ni.com/r/g-web-development-manual) - Creating, building, and hosting WebVIs.
+  - [Communicating Data with Web Services Using WebVIs](https://www.ni.com/documentation/en/g-web-development/latest/manual/communicating-data-with-webvi/)
+  - [Hosting WebVIs](https://www.ni.com/documentation/en/g-web-development/latest/manual/hosting-web-application-on-server/) - See several options available for hosting built WebVIs.
 - [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud) - Cloud service from NI to securely make WebVIs available on the internet.
-- [HTTP Nodes](http://www.ni.com/documentation/en/labview/latest/node-ref/http-nodes) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
+- [HTTP Nodes](https://www.ni.com/documentation/en/g-web-development/latest/node-ref/http-nodes/) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
 
 ### Training
 
-- [Getting Started with LabVIEW NXG Community Edition](https://education.ni.com/training/resources/1408/getting-started-with-labview-nxg-community-edition) - Course introducing LabVIEW NXG Community and instructions for building and publishing your first WebVI. **Requires access to [LabVIEW NXG Community](https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-community.html) (free)**.
-- [Build a Web App for Your Test System in 30 Minutes](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg30.jsp&referrer=&eventid=2503837&sessionid=1&key=31D72E0DC82DF56CB36E1F1C341A479C&regTag=&sourcepage=register) - Course showing how to web-enable an existing LabVIEW test system with LabVIEW NXG Web Module and SystemLink Cloud. **Registration required (free)**.
-- [Creating Web Applications Using LabVIEW NXG](https://education.ni.com/training/resources/1330/creating-web-applications-using-labview-nxg) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI. **Requires SSP**.
+- [Build a Web App for Your Test System](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3358385&sessionid=1&key=43D24BE0A1A83FC683B4BF0A3D2AAC4A&groupId=2793615) - Course showing how to web-enable an existing LabVIEW test system with G Web Development Software and SystemLink Cloud. **Registration required (free)**. [Webinar Example Code](https://forums.ni.com/t5/Example-Code/Webinar-Example-Code-Build-a-Web-App-for-Your-Test-System/ta-p/4175994).
+- [Creating Web Applications Using G Web Development Software](https://learn.ni.com/learning-paths/creating-web-applications-using-g-web-development-software) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI. **Requires SSP**.
 
 ### Forums
 
-- [Example Code](https://forums.ni.com/t5/Example-Code/tkb-p/3039/label-name/software-labview%20nxg%20web%20module?labels=software-labview%20nxg%20web%20module) - Examples tagged as `LabVIEW NXG Web Module` in the NI Example Code forum.
+- [G Web Development Software Forum](https://forums.ni.com/t5/G-Web-Development-Software/bd-p/g-web-development) - The official community forum for G Web Development Software.
+- [Example Code](https://forums.ni.com/t5/Example-Code/tkb-p/3039/label-name/Software-G%20Web%20Development%20Software) - Examples tagged as `Software-G Web Development Software` in the NI Example Code forum.
 
 ### Videos
 
-- [LabVIEW NXG: Getting started with Web VIs](https://www.youtube.com/watch?v=2R5x5bzp3uk) - Introduction to the WebVI editing experience in NXG 2.
+<!--lint ignore double-link-->
+- [What is G Web? 📺](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
+- [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1099s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
 
 ## Add-Ons
 
