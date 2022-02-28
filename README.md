@@ -120,10 +120,7 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 
 ### Social media
 
-- [@wimtormans on twitter](https://twitter.com/wimtormans/status/1125314404562681856) - *"Finally had some time to do some work on my hobby project. Indoor monitoring with #LabVIEW on a #RaspberryPi and visualize the data with a #LabVIEWNXG #WebVI on a #SystemLink server… Everything is running at the @VI_Technologies offices :-)"* - WebVIs on Raspberry Pis! [Source](https://github.com/wimtormans/LabVIEWRaspberryPI_IndoorMonitoring). May 2019.
-- [@rajsite on twitter](https://twitter.com/rajsite/status/955978573181079552) - *"THE #WebVI IS NOW OFFICIALLY RELEASED IN LabVIEW NXG 2 WEB MODULE! WE MADE A THING, USE IT TO MAKE SOME TOO! @NIglobal @LabVIEW #LabVIEW #NXG"* - WebVIs released! 🎉. January 2018.
-- [@rajsite on twitter](https://twitter.com/rajsite/status/867074013478170624) - *"LabVIEW running in a browser with the #WebVI and LabVIEW NXG 2 Beta! #LabVIEW #NIWeek #NIWeek2017"* - NI showing WebVIs as would first be available in the NXG 2.0 beta. NIWeek May 2017.
-- [@rajsite on twitter](https://twitter.com/rajsite/status/760869975363944448) - *"A glimpse into the future! 🔮✨ #WebVI @LabVIEW #NIWeek2016 #NIWeek"* - NI first teasing WebVI technology. NIWeek August 2016.
+- [G Web Dev Software Tweet Collection](https://twitter.com/rajsite/timelines/1498347150060703744) - Curated tweets about NI G Web Development Software and LabVIEW Web technologies.
 
 ## Presentations
 
