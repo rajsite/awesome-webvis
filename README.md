@@ -76,7 +76,7 @@ Documentation and examples provided by National Instruments 🦅.
 
 ### Training
 
-- [Build a Web App for Your Test System](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3358385&sessionid=1&key=43D24BE0A1A83FC683B4BF0A3D2AAC4A&groupId=2793615) - Course showing how to web-enable an existing LabVIEW test system with G Web Development Software and SystemLink Cloud. **Registration required (free)**. [Webinar Example Code](https://forums.ni.com/t5/Example-Code/Webinar-Example-Code-Build-a-Web-App-for-Your-Test-System/ta-p/4175994).
+- [Build a Web App for Your Test System](https://bit.ly/3959Smc) - Course showing how to web-enable an existing LabVIEW test system with G Web Development Software and SystemLink Cloud. **Registration required (free)**. [Webinar Example Code](https://forums.ni.com/t5/Example-Code/Webinar-Example-Code-Build-a-Web-App-for-Your-Test-System/ta-p/4175994).
 - [Creating Web Applications Using G Web Development Software](https://learn.ni.com/learning-paths/creating-web-applications-using-g-web-development-software) - Online training course introducing WebVIs and guiding you through creation and publishing of a WebVI. **Requires SSP**.
 
 ### Forums
