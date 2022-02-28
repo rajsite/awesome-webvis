@@ -43,7 +43,7 @@ WebVIs are web applications created using G Web Development Software 🧙‍♂�
 WebVIs build standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some analysis, and present the data in scientific and engineering web controls. G Web Development Software allows you to use the LabVIEW graphical programming language (also known as the G programming language) to create web applications.
 
 <!--lint ignore double-link-->
-Find out more at [webvi.io](https://www.webvi.io), on NI's [What Is G Web Development Software?](https://www.ni.com/g-web-development-software) page, or from the video [What is G Web? 📺](https://www.youtube.com/watch?v=agqu6zV5n9s).
+Find out more at [webvi.io](https://www.webvi.io), on NI's [What Is G Web Development Software?](https://www.ni.com/g-web-development-software) page, or from the video [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s).
 
 ## Latest News
 
@@ -87,7 +87,7 @@ Documentation and examples provided by National Instruments 🦅.
 ### Videos
 
 <!--lint ignore double-link-->
-- [What is G Web? 📺](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
+- [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
 - [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1099s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
 
 ## Add-Ons
