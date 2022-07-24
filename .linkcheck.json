@@ -1,8 +1,0 @@
-{
-    "timeout": "1m",
-    "ignorePatterns": [
-        {
-            "pattern": "https://labviewwiki.org/wiki/NIWeek_2019"
-        }
-    ]
-}
