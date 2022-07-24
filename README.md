@@ -27,7 +27,7 @@ A curated list of awesome WebVIs and resources for making awesome free-range org
 ## Contents
 
 - [What are WebVIs](#what-are-webvis)
-- [Latest News](#latest-news)
+- [Getting Started](#getting-started)
 - [Documentation](#documentation)
 - [Add-Ons](#add-ons)
 - [Tutorials](#tutorials)
@@ -43,12 +43,11 @@ WebVIs are web applications created using G Web Development Software 🧙‍♂�
 
 WebVIs build standalone HTML + JS + CSS webpages that can acquire data (usually from a web service), do some analysis, and present the data in scientific and engineering web controls. G Web Development Software allows you to use the LabVIEW graphical programming language (also known as the G programming language) to create web applications.
 
-<!--lint ignore double-link-->
 Find out more at [webvi.io](https://www.webvi.io), on NI's [What Is G Web Development Software?](https://www.ni.com/g-web-development-software) page, or from the video [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s).
 
-## Latest News
+## Getting Started
 
-- [Introducing G Web Development Software](https://forums.ni.com/t5/G-Web-Development-Software/Introducing-G-Web-Development-Software/td-p/4174519) - G Web Development Software released!
+- [Resources to help you get started with G Web Development Software](https://forums.ni.com/t5/G-Web-Development-Software/Resources-to-help-you-get-started-with-G-Web-Development/td-p/4174607) - Useful links for getting started with G Web.
 
 ## Documentation
 
@@ -87,7 +86,6 @@ Documentation and examples provided by National Instruments 🦅.
 
 ### Videos
 
-<!--lint ignore double-link-->
 - [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
 - [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1093s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
 
@@ -95,7 +93,6 @@ Documentation and examples provided by National Instruments 🦅.
 
 Libraries from the community to add new capabilities to WebVIs 🧩.
 
-<!--lint ignore double-link-->
 - [Debug Tools for WebVI](https://bit.ly/debugtools) - Advanced debugging tools for WebVIs. Includes the Debug Log VI to enable logging arbitrary values to the console. See [`bit.ly/debugtools`](https://bit.ly/debugtools).
 - [ECharts](https://github.com/rajsite/webvi-experiments/tree/main/ECharts) - 2D and 3D charting libraries. [Demo](https://rajsite.github.io/webvi-experiments/ECharts).
 - [File for WebVI](https://forums.ni.com/t5/Example-Code/File-for-WebVI/ta-p/4129229) - Open, modify, and download files from the browser. Capture and preview images using the Uppy library. [Demo](https://rajsite.github.io/webvi-experiments/File/).
@@ -142,7 +139,6 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 - [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Avalanche/).
 - [Cyclone 🌀](https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/gameview/home/).
 - [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/DrEmoji/).
-<!--lint ignore double-link-->
 - [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
 - [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Reflex).
