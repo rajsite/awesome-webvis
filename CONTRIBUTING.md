@@ -30,6 +30,6 @@ To propose new changes [fork and edit the `README.md`](https://github.com/rajsit
        maintained indefinitely and may be redistributed consistent with
        this project or the open source license(s) involved.
 
-(taken from [developercertificate.org](https://developercertificate.org/))
+(taken from https://developercertificate.org/)
 
 See [LICENSE](LICENSE) for details about how `awesome-webvis` is licensed.
