@@ -124,6 +124,8 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 
 Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
 
+- [How to Build a Web UI for Your LabVIEW-Based Test System](https://www.youtube.com/watch?v=U9IhlcgCU5E) - Christina and Milan give a step-by-step overview of how to modify your LabVIEW test system to web-enable it using G Web Development Software. Initially presentation NI Connect May 2022. YouTube recording July 2022.
+- [G Web. Is it any good?](https://www.youtube.com/watch?v=UE9S1ADsm_M) - Brian Powell talks about their experience with G Web Development Software web-enabling a data logger LabVIEW application. GDevConNA July 2022.
 - [NXG WebVIs and SystemLink Tags​](https://forums.ni.com/t5/Minneapolis-LabVIEW-User-Group/NXG-Web-VIs-and-SystemLink-Tags/gpm-p/3975714) - Working with Symation to make a tablet UI to communicate with a PLC and other instruments. October 2019.
 - [Creating Powerful Web Apps With the LabVIEW NXG Web Module](https://www.youtube.com/watch?v=AjAXcuzY9rk) - Matthias details creating a sophisticated web application with a responsive UI, user login, and database backend. [Studio Bods](https://www.studiobods.com/en/niweek2019-ts170). NIWeek May 2019.
 - [Customizing Your WebVIs](https://www.youtube.com/watch?v=Q19tdIw5MgE) - Darin and Milan follow-up the NIWeek 2018 presentation talking about styling WebVIs and creating Add-On libraries with the JSLI. [Community page](https://forums.ni.com/t5/LabVIEW-Web-Development/NIWeek-2019-Customizing-Your-WebVIs/ta-p/3928168). NIWeek May 2019.
