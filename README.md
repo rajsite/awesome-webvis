@@ -163,7 +163,7 @@ If you find a built WebVI on GitHub you can also use an online tool like [githac
 
 Crazy experiments that try to push WebVIs to their limits 🧪.
 
-- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/main/WebVINode) - Create Node.js server and desktop applications from WebVIs. [Demo](https://webvicli-express.herokuapp.com/).
+- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/main/WebVINode) - Create Node.js server and desktop applications from WebVIs.
 
 ## Non-English Resources
 
