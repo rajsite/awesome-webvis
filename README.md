@@ -69,11 +69,11 @@ Documentation and examples provided by National Instruments 🦅.
 
 ### Manuals
 
-- [G Web Development Software](http://www.ni.com/r/g-web-development-manual) - Creating, building, and hosting WebVIs.
-  - [Communicating Data with Web Services Using WebVIs](https://www.ni.com/documentation/en/g-web-development/latest/manual/communicating-data-with-webvi/)
-  - [Hosting WebVIs](https://www.ni.com/documentation/en/g-web-development/latest/manual/hosting-web-application-on-server/) - See several options available for hosting built WebVIs.
-- [SystemLink Cloud](http://www.ni.com/documentation/en/systemlink-cloud) - Cloud service from NI to securely make WebVIs available on the internet.
-- [HTTP Nodes](https://www.ni.com/documentation/en/g-web-development/latest/node-ref/http-nodes/) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
+- [G Web Development Software](https://www.ni.com/docs/en-US/bundle/g-web-development/page/manual-overview.html) - Creating, building, and hosting WebVIs.
+  - [Communicating Data with Web Services Using WebVIs](https://www.ni.com/docs/en-US/bundle/g-web-development/page/communicating-data-with-webvi.html)
+  - [Hosting WebVIs](https://www.ni.com/docs/en-US/bundle/g-web-development/page/hosting-web-application-on-server.html) - See several options available for hosting built WebVIs.
+- [SystemLink Cloud](https://www.ni.com/docs/en-US/bundle/systemlink-cloud/page/manual-overview.html) - Cloud service from NI to securely make WebVIs available on the internet.
+- [HTTP Nodes](https://www.ni.com/docs/en-US/bundle/g-web-development-api-ref/page/http-nodes.html) - LabVIEW HTTP Nodes documentation with important compatibility notes for WebVIs (Web Server target).
 
 ### Training
 
