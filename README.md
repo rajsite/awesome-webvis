@@ -47,6 +47,7 @@ Find out more at [webvi.io](https://www.webvi.io), on NI's [What Is G Web Develo
 
 ## Getting Started
 
+- [How to Build a Web UI for Your LabVIEW-Based Test System](https://www.youtube.com/watch?v=U9IhlcgCU5E) - Christina and Milan give a step-by-step overview of how to modify your LabVIEW test system to web-enable it using G Web Development Software.
 - [Resources to help you get started with G Web Development Software](https://forums.ni.com/t5/G-Web-Development-Software/Resources-to-help-you-get-started-with-G-Web-Development/td-p/4174607) - Useful links for getting started with G Web.
 
 ## Documentation
@@ -88,6 +89,7 @@ Documentation and examples provided by National Instruments 🦅.
 
 - [What is G Web?](https://www.youtube.com/watch?v=agqu6zV5n9s) - David talks about web application architecture and shows example control and monitoring WebVIs.
 - [Tom's LabVIEW Adventure - What's New In LabVIEW 2021 ?!](https://www.youtube.com/watch?v=1hm6ngsSVsw&t=1093s) - Tom shows the G Web Development Software environment and runs a simple WebVI.
+- [SystemLink - G Web Development & Deployment](https://www.youtube.com/watch?v=jLvSI_My5yA) - Makkal shows a walkthrough of web application development using G Web Development Software and deploys the web app in SystemLink.
 
 ## Add-Ons
 
