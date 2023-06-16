@@ -126,7 +126,7 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 
 Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
 
-- [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 2](https://www.youtube.com/watch?v=HSGmiHx9Pno) - Matthias dives into calling web services from LabVIEW. While the presentation does not cover G Web Development Software directly it has invaluable information on using web services which is applicable to all G Web apps. [Studio Bods Abstract](https://bit.ly/GLA2022-WebServices). GLA Summit November 2022.
+- [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 2](https://www.youtube.com/watch?v=tl19HHisXOc) - Matthias dives into calling web services from LabVIEW. While the presentation does not cover G Web Development Software directly it has invaluable information on using web services which is applicable to all G Web apps. [Studio Bods Abstract](https://bit.ly/GLA2022-WebServices). GLA Summit November 2022.
 - [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 1](https://www.youtube.com/watch?v=72hoDQEv-xk) - Matthias gives a great discussion of making Web Services with LabVIEW. Featuring a live audience poll web application made with G Web Development Software. [Studio Bods Abstract](https://bit.ly/GDevCon2022-WebServices). GDevCon September 2022.
 - [How to Build a Web UI for Your LabVIEW-Based Test System](https://www.youtube.com/watch?v=U9IhlcgCU5E) - Christina and Milan give a step-by-step overview of how to modify your LabVIEW test system to web-enable it using G Web Development Software. Initially presented at NI Connect May 2022. YouTube recording July 2022.
 - [G Web. Is it any good?](https://www.youtube.com/watch?v=UE9S1ADsm_M) - Brian Powell talks about their experience with G Web Development Software web-enabling a data logger LabVIEW application. GDevConNA July 2022.
@@ -155,10 +155,11 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 
 Screenshots and videos of WebVIs being used inconspicuously in the wild 🔍.
 
+- [Bionichaos - Biomedical Data Engineering](https://bionichaos.com/) - Dashboards for processing and reviewing biomedical data.
 - [DAM Group Leak Test Platform @ 2:13](https://www.youtube.com/watch?v=REhYcX-w3iU&t=133) - Looks like the NXG 2 button border style. Not running in a normal browser. Awesome music.
 - GCentral - The [GCentral Package Search](https://www.gcentral.org) tool is a WebVI. A sophisticated LabVIEW Web Service backend with user authentication, database storage, and a WebVI frontend. [Source](https://github.com/gcentral/Website).
 
-Discover WebVIs on GitHub using the [`webvi`](https://github.com/topics/webvi) GitHub topic, find WebVI source by searching for the [`gviweb`](https://github.com/search?q=VirtualInstrument+extension%3Agviweb&type=Code) file extension, or find [built WebVIs](https://github.com/search?q=enqueue+filename%3A.via.txt&type=Code) with a clever search.
+Discover WebVIs on GitHub using the [`webvi`](https://github.com/topics/webvi) GitHub topic, find WebVI source by searching for the [`gviweb`](https://github.com/search?q=VirtualInstrument+path%3Agviweb&type=code) file extension, or find [built WebVIs](https://github.com/search?q=enqueue+path%3A.via.txt&type=code) with a clever search.
 
 If you find a built WebVI on GitHub you can also use an online tool like [githack.com](https://raw.githack.com) to quickly preview and run the built WebVI in your browser.
 
@@ -166,7 +167,7 @@ If you find a built WebVI on GitHub you can also use an online tool like [githac
 
 Crazy experiments that try to push WebVIs to their limits 🧪.
 
-- [WebVINode](https://github.com/rajsite/webvi-experiments/tree/main/WebVINode) - Create Node.js server and desktop applications from WebVIs.
+- [WebVI Experiments](https://github.com/rajsite/webvi-experiments#webvi-experiments) - Playground with lots of examples and experiments using the JSLI with G Web. [Demo](https://github.com/rajsite/webvi-experiments/tree/gh-pages#webvi-experiments).
 
 ## Non-English Resources
 
