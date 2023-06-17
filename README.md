@@ -70,6 +70,7 @@ Documentation and examples provided by National Instruments 🦅.
 ### Manuals
 
 - [G Web Development Software](https://www.ni.com/docs/en-US/bundle/g-web-development/page/manual-overview.html) - Creating, building, and hosting WebVIs.
+  - [G Web Development Software API Reference](https://www.ni.com/docs/en-US/bundle/g-web-development-api-ref) - API Reference for VIs and Node in G Web Development Software.
   - [Communicating Data with Web Services Using WebVIs](https://www.ni.com/docs/en-US/bundle/g-web-development/page/communicating-data-with-webvi.html)
   - [Hosting WebVIs](https://www.ni.com/docs/en-US/bundle/g-web-development/page/hosting-web-application-on-server.html) - See several options available for hosting built WebVIs.
 - [SystemLink Cloud](https://www.ni.com/docs/en-US/bundle/systemlink-cloud/page/manual-overview.html) - Cloud service from NI to securely make WebVIs available on the internet.
