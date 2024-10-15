@@ -127,6 +127,7 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 
 Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community 🗣.
 
+- [One WebVI to rule (and print) them all!](https://www.youtube.com/watch?v=8V8iA2PdL4s) - Michal shows a project made with G Web Development Software to remote monitor and control a 3D printer. GDevCon October 2024.
 - [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 2](https://www.youtube.com/watch?v=tl19HHisXOc) - Matthias dives into calling web services from LabVIEW. While the presentation does not cover G Web Development Software directly it has invaluable information on using web services which is applicable to all G Web apps. [Studio Bods Abstract](https://bit.ly/GLA2022-WebServices). GLA Summit November 2022.
 - [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 1](https://www.youtube.com/watch?v=72hoDQEv-xk) - Matthias gives a great discussion of making Web Services with LabVIEW. Featuring a live audience poll web application made with G Web Development Software. [Studio Bods Abstract](https://bit.ly/GDevCon2022-WebServices). GDevCon September 2022.
 - [How to Build a Web UI for Your LabVIEW-Based Test System](https://www.youtube.com/watch?v=U9IhlcgCU5E) - Christina and Milan give a step-by-step overview of how to modify your LabVIEW test system to web-enable it using G Web Development Software. Initially presented at NI Connect May 2022. YouTube recording July 2022.
@@ -175,17 +176,17 @@ Awesome WebVI resources in non-english languages 🌐.
 <!-- spell-checker:disable -->
 - [`Réaliser des applications Web avec LabVIEW (CG & NXG) pour publier vos données`](https://forums.ni.com/t5/luc-desruelle-s-Blogue/R%C3%A9aliser-des-applications-Web-avec-LabVIEW-CG-amp-NXG-pour/ba-p/3943768)
 - [`Software Web – Aulamoisan`](https://aulamoisan.uva.es/software-web/)
-    - [`Laboratorio remoto monofásico`](https://salamoisan.uva.es/labmono/)
-    - [`Laboratorio remoto trifásico`](https://salamoisan.uva.es/labtrif/)
-    - [`Simulador WEB arranque motor asíncrono`](http://salamoisan.uva.es/asincrona2/)
-    - [`Simulador WEB de Corriente Alterna`](https://salamoisan.uva.es/alterna/)
-    - [`Simulador WEB de Fasores Temporales`](http://salamoisan.uva.es/fasores/)
-    - [`Simulador WEB de Flujos de Carga en Red Monofásica`](https://salamoisan.uva.es/flujocarga/)
-    - [`Simulador WEB de Flujos de Carga en Red Trifásica`](https://salamoisan.uva.es/flujocarga3/)
-    - [`Simulador WEB de máquinas asíncrona`](http://salamoisan.uva.es/asincrona/)
-    - [`Simulador WEB de Transformador Monofásico`](http://salamoisan.uva.es/transformador/)
-    - [`Simulador Web de Transitorios de Primer Orden`](http://salamoisan.uva.es/tr1/)
-    - [`Simulador WEB del Teorema de Ferraris`](http://salamoisan.uva.es/ferraris/)
+  - [`Laboratorio remoto monofásico`](https://salamoisan.uva.es/labmono/)
+  - [`Laboratorio remoto trifásico`](https://salamoisan.uva.es/labtrif/)
+  - [`Simulador WEB arranque motor asíncrono`](http://salamoisan.uva.es/asincrona2/)
+  - [`Simulador WEB de Corriente Alterna`](https://salamoisan.uva.es/alterna/)
+  - [`Simulador WEB de Fasores Temporales`](http://salamoisan.uva.es/fasores/)
+  - [`Simulador WEB de Flujos de Carga en Red Monofásica`](https://salamoisan.uva.es/flujocarga/)
+  - [`Simulador WEB de Flujos de Carga en Red Trifásica`](https://salamoisan.uva.es/flujocarga3/)
+  - [`Simulador WEB de máquinas asíncrona`](http://salamoisan.uva.es/asincrona/)
+  - [`Simulador WEB de Transformador Monofásico`](http://salamoisan.uva.es/transformador/)
+  - [`Simulador Web de Transitorios de Primer Orden`](http://salamoisan.uva.es/tr1/)
+  - [`Simulador WEB del Teorema de Ferraris`](http://salamoisan.uva.es/ferraris/)
 - [`NIが提供する新しい遠隔監視ツール 「SystemLink」を学ぼう`](https://forums.ni.com/t5/LabVIEW-Caf%C3%A9/NI%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E9%81%A0%E9%9A%94%E7%9B%A3%E8%A6%96%E3%83%84%E3%83%BC%E3%83%AB-SystemLink-%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86/gpm-p/3967644)
 - [`LabView NXG si aggiorna: arrivano i WebVI`](https://www.innovationpost.it/2018/01/25/labview-nxg-si-aggiorna-arrivano-webvi)
 <!-- spell-checker:enable -->

@@ -4,12 +4,13 @@
   "private": true,
   "description": "Tests for awesome-webvis list",
   "scripts": {
-    "lint": "markdownlint ./*.md",
-    "awesome": "awesome-lint ./README.md",
-    "spelling": "cspell \"*.md\"",
+    "lint": "npm run lint-markdown && npm run lint-awesome && npm run lint-cspell",
+    "lint-markdown": "markdownlint ./*.md",
+    "lint-awesome": "awesome-lint ./README.md",
+    "lint-cspell": "cspell \"*.md\"",
     "link": "glob-exec --foreach \"./*.md\" -- \"npm run markdown-link-check -- -c .linkcheck.json {{file}}\"",
     "markdown-link-check": "markdown-link-check",
-    "test": "npm run lint && npm run spelling && npm run awesome && npm run link"
+    "test": "npm run lint && npm run link"
   },
   "repository": {
     "type": "git",
