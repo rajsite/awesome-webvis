@@ -156,7 +156,6 @@ Games and other fun WebVIs you can play right away in the browser 🕹.
 
 Screenshots and videos of WebVIs being used inconspicuously in the wild 🔍.
 
-- [Bionichaos - Biomedical Data Engineering](https://bionichaos.com/) - Dashboards for processing and reviewing biomedical data.
 - [DAM Group Leak Test Platform @ 2:13](https://www.youtube.com/watch?v=REhYcX-w3iU&t=133) - Looks like the NXG 2 button border style. Not running in a normal browser. Awesome music.
 - GCentral - The [GCentral Package Search](https://www.gcentral.org) tool is a WebVI. A sophisticated LabVIEW Web Service backend with user authentication, database storage, and a WebVI frontend. [Source](https://github.com/gcentral/Website).
 
@@ -174,14 +173,19 @@ Crazy experiments that try to push WebVIs to their limits 🧪.
 
 Awesome WebVI resources in non-english languages 🌐.
 <!-- spell-checker:disable -->
-- [LabVIEW NXG Web Module Training Slide (Japanese)](https://forums.ni.com/t5/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/LabVIEW-NXG-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/ta-p/4043720)
 - [`Réaliser des applications Web avec LabVIEW (CG & NXG) pour publier vos données`](https://forums.ni.com/t5/luc-desruelle-s-Blogue/R%C3%A9aliser-des-applications-Web-avec-LabVIEW-CG-amp-NXG-pour/ba-p/3943768)
-- [`Software Aulamoisan - Departamento de Ingeniería Eléctrica - Universidad de Valladolid`](https://www.aulamoisan.com/practicas-via-web)
-  - [`Corriente Alterna`](https://alterna.aulamoisan.es/)
-  - [`Transitorios de primer orden`](https://tr1.aulamoisan.es/)
-  - [`Máquina asíncrona`](https://asincrona.aulamoisan.es/)
-  - [`Teorema de Ferraris`](https://ferraris.aulamoisan.es/)
-  - [`Transformador eléctricos`](https://transformador.aulamoisan.es/)
+- [`Software Web – Aulamoisan`](https://aulamoisan.uva.es/software-web/)
+    - [`Laboratorio remoto monofásico`](https://salamoisan.uva.es/labmono/)
+    - [`Laboratorio remoto trifásico`](https://salamoisan.uva.es/labtrif/)
+    - [`Simulador WEB arranque motor asíncrono`](http://salamoisan.uva.es/asincrona2/)
+    - [`Simulador WEB de Corriente Alterna`](https://salamoisan.uva.es/alterna/)
+    - [`Simulador WEB de Fasores Temporales`](http://salamoisan.uva.es/fasores/)
+    - [`Simulador WEB de Flujos de Carga en Red Monofásica`](https://salamoisan.uva.es/flujocarga/)
+    - [`Simulador WEB de Flujos de Carga en Red Trifásica`](https://salamoisan.uva.es/flujocarga3/)
+    - [`Simulador WEB de máquinas asíncrona`](http://salamoisan.uva.es/asincrona/)
+    - [`Simulador WEB de Transformador Monofásico`](http://salamoisan.uva.es/transformador/)
+    - [`Simulador Web de Transitorios de Primer Orden`](http://salamoisan.uva.es/tr1/)
+    - [`Simulador WEB del Teorema de Ferraris`](http://salamoisan.uva.es/ferraris/)
 - [`NIが提供する新しい遠隔監視ツール 「SystemLink」を学ぼう`](https://forums.ni.com/t5/LabVIEW-Caf%C3%A9/NI%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E9%81%A0%E9%9A%94%E7%9B%A3%E8%A6%96%E3%83%84%E3%83%BC%E3%83%AB-SystemLink-%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86/gpm-p/3967644)
 - [`LabView NXG si aggiorna: arrivano i WebVI`](https://www.innovationpost.it/2018/01/25/labview-nxg-si-aggiorna-arrivano-webvi)
 <!-- spell-checker:enable -->
