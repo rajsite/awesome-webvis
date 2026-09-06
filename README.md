@@ -22,6 +22,10 @@
 
 # Awesome WebVIs
 
+<!--lint ignore no-undefined-references-->
+> [!NOTE]
+> Beginning December 1, 2027, G Web Development Software will enter the Limited Support lifecycle phase. [See the forums for more information](https://forums.ni.com/t5/G-Web-Development-Software/G-Web-Development-Software-Compliance-Driven-Lifecycle-Update/td-p/4483530).
+
 A curated list of awesome WebVIs and resources for making awesome free-range organic WebVIs 🤘.
 
 ## Contents
@@ -109,13 +113,13 @@ Tutorials, blogs, hands-ons, social media, and articles on WebVIs 📰.
 
 ### Articles
 
-- [Boring Engineer: Web Monitor and Control application using NI SystemLink APIs](https://boringengineer.com/2018/10/21/web-monitor-and-control-application-using-ni-systemlink-apis) - WebVIs + SystemLink APIS for monitoring. October 2019.
 - [TestStand Executor](https://github.com/joshuaprewitt/teststand-executor) - WebVIs + SystemLink to remotely execute TestStand sequences. October 2019.
 - [SystemLink file browser](https://github.com/joshuaprewitt/systemlink-file-browser) - Use SystemLink jobs to read a file in a WebVI from a RT target. [Community](https://forums.ni.com/t5/SystemLink/Target-User-Management-Feature-and-other-features-of-target-web/m-p/3972164/highlight/true?profile.language=en#M1073). September 2019.
 - [Hands-on: Create Web-Ready User Interfaces with the LabVIEW NXG Web Module](https://github.com/eyesonvis/niweek2019-webVI-hands-on) - Create WebVIs that communicate with LabVIEW applications. NIWeek May 2019.
-- [Boring Engineer: NI Web Technology: Monitor and Control Systems](https://boringengineer.com/2018/07/29/ni-web-technology-monitor-and-control-systems) - WebVIs + LabVIEW Web Services for monitoring. July 2018.
-- [Boring Engineer: NXG WebVI: How to access and embed web service and resources](https://boringengineer.com/2018/07/15/webvi-accessing-and-embedding-web-service-and-resources) - Embed images, iframes, and use HTTP with web services. July 2018.
-- [Boring Engineer: NXG WebVI : Develop, Deploy and Host a Simple Web Game](https://boringengineer.com/2018/07/15/develop-deploy-host-webvi) - Learn the basics of making WebVIs by creating a math game! July 2018.
+- [Boring Engineer: Web Monitor and Control application using NI SystemLink APIs](https://boringengineer.com/blog/web-monitor-and-control-application-using-ni-systemlink-apis) - WebVIs + SystemLink APIS for monitoring. October 2018.
+- [Boring Engineer: NI Web Technology: Monitor and Control Systems](https://boringengineer.com/blog/ni-web-technology-monitor-and-control-systems) - WebVIs + LabVIEW Web Services for monitoring. July 2018.
+- [Boring Engineer: NXG WebVI: How to access and embed web service and resources](https://boringengineer.com/blog/webvi-accessing-and-embedding-web-service-and-resources) - Embed images, iframes, and use HTTP with web services. July 2018.
+- [Boring Engineer: NXG WebVI : Develop, Deploy and Host a Simple Web Game](https://boringengineer.com/blog/develop-deploy-host-webvi) - Learn the basics of making WebVIs by creating a math game! July 2018.
 - [Latest enhancements to LabVIEW NXG include WebVI, expanded instrument coverage](https://www.testandmeasurementtips.com/latest-enhancements-labview-nxg-include-webvi-expanded-instrument-coverage) - WebVIs are here! January 2018.
 - [First WebVI Prototype](https://github.com/rajsite/webvi-experiments/tree/main/FirstPrototype) - The first `Hello World!` of WebVIs. [Demo](https://rawcdn.githack.com/rajsite/webvi-experiments/8a0858cb5d4a2e301a9dc9c8f6f363530d7f096e/FirstPrototype/test.html). May 2013.
 
@@ -132,6 +136,7 @@ Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community �
 - [All you wanted to know about LabVIEW and Web Services but feared to ask – Part 1](https://www.youtube.com/watch?v=72hoDQEv-xk) - Matthias gives a great discussion of making Web Services with LabVIEW. Featuring a live audience poll web application made with G Web Development Software. [Studio Bods Abstract](https://bit.ly/GDevCon2022-WebServices). GDevCon September 2022.
 - [How to Build a Web UI for Your LabVIEW-Based Test System](https://www.youtube.com/watch?v=U9IhlcgCU5E) - Christina and Milan give a step-by-step overview of how to modify your LabVIEW test system to web-enable it using G Web Development Software. Initially presented at NI Connect May 2022. YouTube recording July 2022.
 - [G Web. Is it any good?](https://www.youtube.com/watch?v=UE9S1ADsm_M) - Brian Powell talks about their experience with G Web Development Software web-enabling a data logger LabVIEW application. GDevConNA July 2022.
+- [Smartphone native LabVIEW applications](https://www.youtube.com/watch?v=KvEAUReBjeM) - Natan Biesmans talks about making native Android and iOS apps with WebVIs. DutLUG July 2021.
 - [NXG WebVIs and SystemLink Tags​](https://forums.ni.com/t5/Minneapolis-LabVIEW-User-Group/NXG-Web-VIs-and-SystemLink-Tags/gpm-p/3975714) - Working with Symation to make a tablet UI to communicate with a PLC and other instruments. October 2019.
 - [Creating Powerful Web Apps With the LabVIEW NXG Web Module](https://www.youtube.com/watch?v=AjAXcuzY9rk) - Matthias details creating a sophisticated web application with a responsive UI, user login, and database backend. [Studio Bods](https://www.studiobods.com/en/niweek2019-ts170). NIWeek May 2019.
 - [Customizing Your WebVIs](https://www.youtube.com/watch?v=Q19tdIw5MgE) - Darin and Milan follow-up the NIWeek 2018 presentation talking about styling WebVIs and creating Add-On libraries with the JSLI. [Community page](https://forums.ni.com/t5/LabVIEW-Web-Development/NIWeek-2019-Customizing-Your-WebVIs/ta-p/3928168). NIWeek May 2019.
@@ -145,13 +150,12 @@ Presentations about WebVIs from NIWeek, LabVIEW User Groups, and the community �
 Games and other fun WebVIs you can play right away in the browser 🕹.
 
 - [Avalanche 🌠](https://rajsite.github.io/webvi-experiments/Avalanche) - Dodge the shooting stars. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Avalanche/).
-- [Cyclone 🌀](https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone. [Homepage](https://boringengineer.com/gameview/home/).
+- [Cyclone 🌀](https://web.archive.org/web/20240930185220/https://boringengineer.com/gameview/cyclone/) - Use your reflexes to land on the cyclone.
 - [Dr. Emoji 💊](https://rajsite.github.io/webvi-experiments/DrEmoji) - Save the animals by matching their hearts ❤💙💛. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/DrEmoji/).
 - [Fire 🔥](https://rajsite.github.io/webvi-experiments/build/Fire) - The PSX Doom fire animation ported to [HTML 5](https://github.com/fabiensanglard/DoomFirePSX) to [LabVIEW](https://github.com/dataflowg/labview-psx-doom-fire) to [LabVIEW NXG](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire) to [WebVIs](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire). [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Fire).
 - [Nibbles 🐍💡](http://ccm-ee.com/Nibbles/Nibbles.html) - Snake made out of LEDs. [Facebook post](https://www.facebook.com/ccmelectronic/posts/1887095178035968).
 - [Reflex tester 👉](https://rajsite.github.io/webvi-experiments/Reflex) - Test your reflexes. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Reflex).
 - [Snake 🐍](https://rajsite.github.io/webvi-experiments/Snake) - Snake with extra steps. [Source](https://github.com/rajsite/webvi-experiments/tree/main/Arcade/Snake/).
-- [T-Rex 🦖](https://boringengineer.com/gameview/T-Rex/LabVIEW%20T-Rex.html) - Your favorite offline dinosaur game made online.
 
 ## Spotted in the Wild
 
